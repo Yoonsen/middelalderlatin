@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-// TEI P5 //EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="lap71">
+<teiHeader xml:lang="nob">
+<fileDesc>
+<titleStmt>
+<title>
+Korpusfil: <ref type="external" target="https://urn.nb.no/URN:NBN:no-nb_digitidsskrift_2014092382005_001">Oloph Odenius: &#x00AB;Et obeaktat fragment av S. Hallvards legend&#x00BB; I: <title rend="italic">Historisk tidsskrift</title> 1961/62 41, Oslo 1962</ref>, s. 321-330
+<lb/><hi rend="italic">Digital corpus and dictionary of Norwegian Medieval Latin texts</hi>
+<lb/>Nasjonalbiblioteket 2018
+<lb/>Publiseres som del av digitalt tekstkorpus, kun latinsk tekst er tatt med.
+</title>
+</titleStmt>
+<publicationStmt>
+<p>Publiseres som del av digitalt tekstkorpus: Norwegian Medieval Latin texts, Nasjonalbiblioteket 2018 (https://www.nb.no/forskning/medieval-latin/)</p>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<title><ref type="external" target="https://urn.nb.no/URN:NBN:no-nb_digitidsskrift_2014092382005_001">&#x00AB;Et obeaktat fragment av S. Hallvards legend&#x00BB; I: <title rend="italic">Historisk tidsskrift</title> (41, 1961/62)</ref></title>
+<editor>Oloph Odenius</editor>
+<publisher>Universitetsforlaget</publisher>
+<pubPlace>Oslo</pubPlace>
+<date when="1962">1962</date>
+<note type="fileDesc">digitidsskrift_2014092382005_001, transkribert og kodet av Stian Brynildsen for Nasjonalbiblioteket</note>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<langUsage>
+<language ident="nbo">Norsk bokm&#x00E5;l</language>
+<language ident="lat">Latin</language>
+</langUsage>
+</profileDesc>
+<revisionDesc>
+<change who="ENW" when="2018-11-30">Lagt til bibl i sourceDesc. Validert.</change>
+<change xml:id="ENW" who="ENW" when="2018-10-25">Sjekket XML-koding, noen justeringer. Lagt til lang-attributter og langUsage i teiHeader. Fil valid og velformet.</change>
+<change xml:id="SB" who="SB" when="2018-08-01">Transkripsjon og koding.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="lap71_StHallvard" xml:lang="lat">
+<body>
+<div type="chapter">
+<head type="main">Et S. Hallvard-Fragment</head>
+<lg>
+<head type="sub">(f. 3<hi rend="raised">r</hi>)</head>
+<l>BEatus haluardus de nobilibus parentibus &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>Pater eius vebernus / mater vero thornia dicebatur &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>filia guthbrandi comitis / qui eciam guthbrandus ge &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>olaui regis et martyris Creuit bone indolis puer &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>affamine dulcis Cum vero iam non in adolescenciam de &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>familiaris procurande patri adiutor existere E &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>ne religioni deditus obediens parentibus erga &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>corpore castus honestate pollens iusticie cultor &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>pondera et ne fratribus fraudem daret.... &#x2013; &#x2013; &#x2013; &#x2013;</l>
+</lg>
+
+<lg>
+<head type="sub">(f. 3<hi rend="raised">v</hi>)</head>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; rit gothlandiam quem quidam indigena terre illius</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; prediues inter socios stantem considerans ait / Quis</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; Ile nomen et genus indicauit ei / Cui bothmundus</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; ium singularem / et precunctis qui hic assistant ho-</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; o quod magni prodigii signum elucet in te futurum</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; bulibus ad domun meam inuito / Cumque haluardus</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; tantis cum sociis suis ait et bothmundus / Ego e-</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; venalia / et donec proficiscaris manebis me-</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; est / Jnstante vero tempore nauigandi quidquid nauiga-</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; lunt naui imposuit et in pace abire permisit / Et</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; nertimoniis in patriam rediit POst hoc</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; adam die ergressus est de domo patris sui vt easdem</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; iserat / venitque ad quoddam stagnum quod erat</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; sui / Et cum ascenderet in nauiculam solus / Venit post</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; t palpitans rogauitque eum / vt secum duceret / et ad</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; t / Jussa itaque mulier / sediit in puppi / illo remigan</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; Qui subito circumspiciens / vidit tres homines ar</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; .o mulier aduena aduenerat / ad littora an-</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; .statim vnam arripiunt cimbam / et remigantes ve</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; eos / tunc haluardus quesiuit a muliere / si ag-</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; .s / Agnosco inquit illa / At ille / video inquit quod</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; .t / Dic mihi quid feceras </l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; ichi furtum / quod non feci / viri autem illi / statim vt</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; iliant et dicunt voce rabida / Cur tu haluarde /</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; tibus editus / mulierem tam malam et flagiciosam tuen-</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; onfregit hostium domus / et furata est res fratis nostri /</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; est &#x005B;q&#x005D;vis femine / sed fortis viri / frangere hostium / An</l>
+</lg>
+
+<lg>
+<head type="sub">(f. 4<hi rend="raised">r</hi></head>
+<l>si potest / Sin / autem moriatur secundum leges aut certe eg &#x2013; &#x2013; &#x2013;</l>
+<l>pro ea vt pregnantem mulierem et infantem vnu &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<pb n="329"/>
+<l>occidatis / Oportet ergo vos sedatos esse nec temere &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>CVnque illi cum furore respondissent Vnus &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>fortiter jecit et virum sanctum in pectore transfix &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>rem occiderunt eciam et in littore sepelierunt / Co &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>tollentes ligauerunt ad collum eius lapidem &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>merserunt / Verbernus vero / cum filius suus st &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>retur / cepit contristari / et misit pueros qui e &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>possuit requirerent / Sed homines qui illas partes in &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>venisse denegabant / cimbam vero modicam in littor &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>Reuersi vero nuncii / hoc patri nunciabant vnde ipse &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>de contristatus est Post aliquas dies contigit / vt &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>circa loca illa vbi fuerat occisus sanctus haluardus &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>simul duo illa vbi fuerat occisus sanctus haluardus &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>et hic multo tempore commoratus in domo veberni / &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>haluardum et ideo de morte eius valde dole &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>CVnque in crepusculo noctis / propter invndacione &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>degenerati / pre fame et frigore / vident su &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>faculam ardentem / et mirantes atque gaudentes &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>anima esto patri / Ecce vidimus lumen in tenebris Et &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>runt lapidem natantem ligatum ad collum hominis et &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>miraculum est hoc / aliquis factus est hic cuius mer &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>quam lapis fluctuans ostendunt Leuate ergo cor &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>nauim / Considerantes autem wltum et habitum .e .... &#x2013; &#x2013; &#x2013; &#x2013;</l>
+<l>itaque pater letare / quia alumpni tui haluardi cor .... &#x2013; &#x2013; &#x2013; &#x2013;</l>
+</lg>
+
+<lg>
+<head type="sub">(f. 4<hi rend="raised">v</hi>(</head>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; nauibus ad .... lo .... tis / continuo lumen rete</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; enti gau ............... litus<note type="footnote">Otydligt och os&#x00E4;kert.</note></l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; la / super c ............... / Ibi fons clarus</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; ie / indeficientibus ..... xuberans / et locus</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; aluardi / TUnc ......... ixit iuuenibus</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; i / nunciate veber .............. is / vt</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; rant obuiam co .............</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; igitur nocte illa n ........ / ........</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; venientes pulsant ad ostium Surgens igitur voce</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; boni nuncij offerentur / At illi inquiunt / bonum apertamus</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; um habes / qui cecum illuminauit / et fortem de terra pro</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; s haluardi inuenimus / sub cuius pectore wlnus con</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; forens occiderunt / et corpus in mare submerse</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; um lumine / nobis ostendit corpus cum lapide / natans</l>
+<pb n="330"/>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; bus et amicis / occurratis ei / Dignum obsequium exhiben</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; / angustiatus est / et mater / orbitatis luctum et huius</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; us fluctuans / pene exanimis factus est / Resumpto</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; Si hec ita se habent vt asseritis Sufficit michi /</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; nec vltra quasi mortuum plangam / quem clarescentibus</l>
+<l>&#x2013; &#x2013; &#x2013; &#x2013; viuere cognosco.</l>
+</lg>
+
+</div>
+
+</body>
+</text>
+</TEI>

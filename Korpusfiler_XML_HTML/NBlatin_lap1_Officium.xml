@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-// TEI P5 //EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="lap1">
+<teiHeader xml:lang="nob">
+<fileDesc>
+<titleStmt>
+<title>
+Korpusfil: <ref type="external" target="https://urn.nb.no/URN:NBN:no-nb_digibok_2016062108179">Gisela Attinger og Andreas Haug: &#x00AB;&#x005B;Officium In Susceptione Sanguinis Domini&#x005D;&#x00BB; I: <title rend="italic">The Nidaros Office of the Holy Blood - Liturgical Music in Medieval Norway</title>, Trondheim 2004</ref>, s. 29-42
+<lb/><hi rend="italic">Digital corpus and dictionary of Norwegian Medieval Latin texts</hi>
+<lb/>Nasjonalbiblioteket 2018
+<lb/>Publiseres som del av digitalt tekstkorpus, kun latinsk tekst er tatt med.
+</title>
+</titleStmt>
+<publicationStmt>
+<p>Publiseres som del av digitalt tekstkorpus: Norwegian Medieval Latin texts, Nasjonalbiblioteket 2018 (https://www.nb.no/forskning/medieval-latin/)</p>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<title><ref type="external" target="https://urn.nb.no/URN:NBN:no-nb_digibok_2016062108179">&#x00AB;&#x005B;Officium In Susceptione Sanguinis Domini&#x005D;&#x00BB; I: The Nidaros Office of the Holy Blood - Liturgical Music in Medieval Norway</ref></title>
+<editor>Gisela Attinger</editor>
+<editor>Andreas Haug</editor>
+<publisher>Tapir Academic Press</publisher>
+<pubPlace>Trondheim</pubPlace>
+<date when="2004">2004</date>
+<note type="fileDesc">Transkribert og kodet av Stian Brynildsen for Nasjonalbiblioteket, juli 2018</note>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<langUsage>
+<language ident="nbo">Norsk bokm&#x00E5;l</language>
+<language ident="lat">Latin</language>
+</langUsage>
+</profileDesc>
+<revisionDesc>
+<change who="ENW" when="2018-11-30">Lagt til bibl i sourceDesc. Validert.</change>
+<change xml:id="ENW" who="ENW" when="2018-10-22">Sjekket XML-koding, noen justeringer. Lagt til lang-attributter og langUsage i teiHeader. Fil valid og velformet.</change>
+<change xml:id="SB" who="SB" when="2018-07-07">Transkripsjon og koding.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="lap1_Officium" xml:lang="lat">
+<body>
+<div type="part">
+<head type="main">&#x005B;Officium <hi rend="italic">In Susceptione Sanguinis Domini</hi>&#x005D;</head>
+<pb n="29"/>
+<div type="chapter">
+<head type="main">&#x005B;Ad primas vespera&#x005D;</head>
+<div subtype="uchapter">
+<head type="sub">&#x005B;Antiphona&#x005D; V1-A1</head>
+<lg>
+<l>Super praecipuos superni regni potentes,</l>
+<l>summe potens qui nos redemisti redemptae<note type="footnote">redempte auf Rasur</note> catervae</l>
+<l>preces attende ut quae tui gaudet sanguinis susceptione gratuletur</l>
+<l>redemptione.</l>
+<l>Ps. Laudate pueri &#x005B;Ps. 112&#x005D;</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Text: Adaption von Inter praceipuos superni reges potentes potens princeps Benedicte astantis catervae preces attende ut quae two gratuletur honore adiuvetur oratione (in Nidaros verwendet f&#x00FC;r die 1. Vesper der Translatio S. Benedicti, s. Gjerl&#x00F8;w 1968, S. 366 Z. 1), vgl. Gjerl&#x00F8;w 1976, S. 236. <hi rend="italic">Super&#x2026; potentes</hi> und <hi rend="italic">Summe&#x2026; catervae</hi> k&#x00F6;nnen als Hexameter aufgefa&#x00DF;t werden</p>
+</div>
+<div subtype="uchapter">
+<head type="sub">Antiphona V1-A2</head>
+<lg>
+<l>Ecce advenit dominator deus,</l>
+<l>et regnum in manu eius et potestas et imperium in aeternum,</l>
+<l>quique nos ab hostis imperio suo sanguine liberavit.</l>
+<l>Ps. Laudate dominum &#x005B;Ps. 116&#x005D;</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Melodie und Text: Adaption von CAO 2489: <hi rend="italic">Ecce advenit dominator deus et regnum in manu eius et potestas et imperium in aeternum Alleluia,</hi> vgl. Gjerl&#x00F8;w 1979, S. 236.</p>
+</div>
+<div subtype="uchapter">
+<head type="sub">Antiphona V1-A3</head>
+<lg>
+<l>Salus aeterna nobis apparuit,</l>
+<l>qui hominem perditum fuso sanguine ad caelestia revocavit,</l>
+<l>et nos ab ovili aberrantes pius pastor <note type="footnote">nachtr&#x00E4;glich durch Hinzuf&#x00FC;gen von a und b zur Lesung <hi rend="italic">pastor pius</hi> ver&#x00E4;ndert</note>
+humero reportauit.</l>
+<l>Ps. Lauda anima &#x005B;Ps. 145&#x005D;</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Melodie: cf. Gisela Attinger, in diesem Band S. 100.</p>
+<p rend="noIndent">Text: Adaption von CAO 4682: <hi rend="italic">Salus aeterna mundo apparuit ut hominem perditum ad caelestia revocaret,</hi> vgl. Gjerl&#x00F8;w 1979, S. 237.</p>
+</div>
+<pb n="30"/>
+<div subtype="uchapter">
+<head type="sub">Antiphona V1-A4</head>
+<lg>
+<l>Christus deus noster, in quo divinitatis est plenitudo,</l>
+<l>carnis nostrae infirma suscipiens,</l>
+<l>pro nobis factus homo,</l>
+<l>proprio sanguine hominem a morte liberavit.</l>
+<l>Ps. Laudate dominum &#x005B;Ps. 148&#x005D;</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Melodie und Text: Adaption von CAO 1791: <hi rend="italic">Christus deus noster in quo divinitatis est plenitudo carnis nostrae infirma suscipiens novus natus est homo Alleluia,</hi> vgl. Gjerl&#x00F8;w 1979, S. 237.</p>
+</div>
+<div subtype="uchapter">
+<head type="sub">Antiphona V1-A5</head>
+<lg>
+<l>Exultemus in domino et spiritali iocunditate laetemur,</l>
+<l>quia salus aeterna nobis apparuit,</l>
+<l>qui pro nobis proprio sanguine fuso mortis morsus factus est,</l>
+<l>ut nos moriens a morte liberavit.</l>
+<l>Ps. Lauda Jerusalem &#x005B;Ps. 147&#x005D;</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Melodie: cf. Gisela Attinger, in diesem Band S. 102.</p>
+<p rend="noIndent">Text: Adaption von CAO 2818: <hi rend="italic">Exultemus in domino et spiritali iocunditate laetemur quia salus aeterna nobis apparuit Alleluia,</hi> vgl. Gjerl&#x00F8;w 1979, S. 237. Erweiterung <hi rend="italic">qui pro nobis&#x2026; factus est:</hi> cf. <hi rend="italic">O mors, ero mors tua; morsus tuus ero, inferne</hi> (CAO 4045).</p>
+</div>
+<div subtype="uchapter">
+<head type="sub">Responsorium V1-R</head>
+<lg>
+<l>Iesu bone qui nos per proprium sanguinem a morte solvisti<note type="footnote">auf Rasur</note>, qui mortem pro nobis sustinens in morte clarificatus ad patrem regressus es.</l>
+<l>V. Esto nobis domine turris fortitudinis a facie inimi&#x005B;ci&#x005D;. Qui.</l>
+<l>V. Gloria patri et filio et spiritui sancto. Qui.</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Melodie: <hi rend="italic">Volens Noe scire</hi> (Nachweis Gisela Attinger, in diesem Band S. 102; s. auch unten S. 90ff.).</p>
+<p rend="noIndent">Text: <hi rend="italic">per proprium sanguinem:</hi> cf. <hi rend="italic">per proprium sanguinem introivit semel in sancta, aeterna redemptione inventa</hi> (Hebr 9,12); <hi rend="italic">in morte clarificatus</hi>: cf. <hi rend="italic">nunc clarificatus est Filius hominis, et Deus clarificatus est in eo</hi> (Joh. 13,31), CAO 3974; <hi rend="italic">ad patrem regressus: regressus eius ad patrem,</hi> Hymnus <hi rend="italic">Intende qui regis Israel</hi> (AH 50 Nr. 8), Str. 6; cf. <hi rend="italic">ad archam reversa est</hi> im Bezugsgesang (s. oben); <hi rend="italic">Esto&#x2026; inimici</hi>: CAO 6673.</p>
+</div>
+<pb n="31"/>
+<div subtype="uchapter">
+<head type="sub">Hymnus V1-H</head>
+<lg type="stanza" n="1">
+<head type="stanzanumber">&#x005B;1.&#x005D;</head>
+<l>Salve Lux mundi rex regum<note type="footnote"><hi rend="italic">regum et</hi> auf Rasur</note> et gloria</l>
+<l>salve spes nostra salve salvans omnia</l>
+<l>protege munda <note type="footnote"><hi rend="italic">munda</hi> auf Rasur</note> benedic salvifica plebem</l>
+<l>quam tuo redemisti sanguine.</l>
+</lg>
+<lg type="stanza" n="2">
+<head type="stanzanumber">&#x005B;2.&#x005D;</head>
+<l>Salva redemptor plasma &#x005B;tuum nobile</l>
+<l>signatum sancto vultus tui lumine</l>
+<l>ne lacerari sinas fraude daemonum</l>
+<l>propter quod mortis exsolvisti pretium.&#x005D;</l>
+</lg>
+<lg type="stanza" n="3">
+<head type="stanzanumber">&#x005B;3.&#x005D;</head>
+<l>Dole captivos esse tuos &#x005B;servulos</l>
+<l>absolve reos, compeditos erige</l>
+<l>et quos cruore redemisti proprio</l>
+<l>rex bone tecum fac gaudere perpetim.&#x005D;</l>
+</lg>
+<lg type="stanza" n="4">
+<head type="stanzanumber">&#x005B;4.&#x005D;</head>
+<l>Sit tibi Jesu &#x005B;benedicte domine</l>
+<l>Gloria virtus honor et imperium</l>
+<l>Una cum patre sanctoque paraclito</l>
+<l>Cum quibus regnas deus ante saecula.&#x005D;</l>
+</lg>
+<lg>
+<l><hi rend="italic">Require in festo unius apostoli</hi></l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Melodie: cf. Gisela Attinger, in diesem Band S. 103.</p>
+<p rend="noIndent">Text: Str.1: <hi rend="italic">Salve&#x2026; gloria: Salve lux mundi rex regum gloria celi</hi> (Begleitvers zum Palmsonntagsgesang <hi rend="italic">En rex venit mansuetus</hi>; s. Hermann Josef Gr&#x00E4;f, <hi rend="italic">Palmenweihe und Palmenprozession in der lateinischen Liturgie,</hi> Kaldenkirchen 1959, S. 82); vgl. auch Str. 1. des Kreuzeshymnus AH 50 Nr. 223: <hi rend="italic">Salve crux sancta salve mundi gloria, vera spes nostra&#x2026;; protege&#x2026; plebem:</hi> cf. edb. Str. 4: <hi rend="italic">protege, salva, benedic, sanctifica populum.</hi></p>
+<p>Str. 2-4 = Str. 2-4 des Apostelhymnus <hi rend="italic">Annue (Adnue) Christe</hi> (AH 51 Nr. 107, auch in Nidaros gebr&#x00E4;uchlich: vgl. die Rubrik <hi rend="italic">Require in festo unius apostoli</hi> sowie Gjerl&#x00F8;w 1968, S. 494), vgl. Gjerl&#x00F8;w 1979, S. 237f.</p>
+</div>
+<div subtype="uchapter">
+<head type="sub">&#x005B;Antiphona&#x005D; in evangelio V1-Am</head>
+<lg>
+<l>Ave pater gloriose ave patris proles inclita Jesu Christe,</l>
+<l>qui per proprii sanguinis effusionem meruisti nomen quod est super omne nomen,</l>
+<l>te ergo petimus Jesu clemens clementiam impende supplicibus.</l>
+<l>Ps. Magnificat &#x005B;Cant. Mariae, Lc 1&#x005D;.</l>
+</lg>
+<pb n="32"/>
+<p rend="noIndent">Text: <hi rend="italic">patris proles inclita</hi>: cf. z.B. <hi rend="italic">at tu, Iovis inclita proles,</hi> Ovid, Metamorph. IX, 229; <hi rend="italic">nomen quod&#x2026; omne nomen: Propter quod et Deus&#x2026; dedit illi nomen, quod est super omne nomen</hi> (Phil. 2, 8f.)</p>
+</div>
+</div>
+<div subtype="chapter">
+<head type="main">Ad matutinas</head>
+<div subtype="uchapter">
+<head type="sub">&#x005B;Antiphona ad&#x005D; invitatorium M-I</head>
+<lg>
+<l>Filiae Sion venite<note type="footnote"><hi rend="italic">venite</hi> auf Rasur</note> et videte regem coronatum in cruce, cuius caro mundi vita cuius sanguis redemptio.</l>
+<l>Ps. Venite. &#x005B;Ps. 94&#x005D;</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Text: <hi rend="italic">Filiae&#x2026; venite: Filiae Sion currite</hi> (Invitatorium zu <hi rend="italic">Dedicatio ecclesiae,</hi> CAO 1079; in Nidaros bekannt: vgl. Gjerl&#x00F8;w 1968, S. 292 u. 335), vgl. Gjerl&#x00F8;w 1979, S. 241.</p>
+</div>
+<div subtype="uchapter">
+<head type="sub">Hymnus M-H</head>
+<lg subtype="stanza" n="1">
+<head type="stanzanumber">&#x005B;1.&#x005D;</head>
+<l>Christe redemptor omnium</l>
+<l>ex parte patris unice</l>
+<l>solus ante principium</l>
+<l>natus ineffabiliter.</l>
+</lg>
+<lg subtype="stanza" n="2">
+<head type="stanzanumber">&#x005B;2.&#x005D;</head>
+<l>Tu lumen tu splendor patris</l>
+<l>tu spes perhennis omnium</l>
+<l>intende quas fundunt preces</l>
+<l>tui per orbem famuli.</l>
+</lg>
+<lg subtype="stanza" n="3">
+<head type="stanzanumber">&#x005B;3.&#x005D;</head>
+<l>Memento salutis auctor</l>
+<l>quod nostri quondam corporis</l>
+<l>ex illibata virgine</l>
+<l>nascendo formam sumpseris.<note type="footnote">Hier Verweisung auf Randnachtrag (14. Jh.): <hi rend="italic">Hunc caelum terra hunc mare hunc omne quod in eis est auctorem adventus tui laudans exultat cantico.</hi></note></l>
+</lg>
+<lg subtype="stanza" n="4">
+<head type="stanzanumber">&#x005B;4.&#x005D;</head>
+<l>Nos quoque qui sancto tuo</l>
+<l>redempti sumus sanguine</l>
+<l>ob diem adventus tui</l>
+<l>ymnum novum concinimus</l>
+</lg>
+<lg subtype="stanza" n="5">
+<head type="stanzanumber">&#x005B;5.&#x005D;</head>
+<l>Laus patri sit ingenito</l>
+<l>laus eius unigenito</l>
+<l>cum spiritu paraclito</l>
+<l>in sempiterna saecula. amen.</l>
+</lg>
+<pb n="33"/>
+<p rend="noIndent">Melodie und Text: AH 51 Nr. 50 Str. 1-3, 5 (hier als Nachtrag), 6 (<hi rend="italic">natalis</hi> hier durch <hi rend="italic">adventus</hi> ersetzt) u. Doxologie, vgl. Gjerl&#x00F8;w 1979, S. 238.</p>
+</div>
+</div>
+<div subtype="chapter">
+<head type="main">In primo nocturno</head>
+<div subtype="uchapter">
+<head type="sub">Antiphona M-A1</head>
+<lg>
+<l>Auctor salutis omnium</l>
+<l>Jesu nostrum refugium</l>
+<l>te invocamus cernui</l>
+<l>et indigni famuli</l>
+<l>sanguine quos proprio</l>
+<l>dignatus es redimere</l>
+<l>iungere digneris</l>
+<l>patriarcharum cuneis.</l>
+<l>Ps. Domine dominus &#x005B;Ps. 8&#x005D;</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Text: <hi rend="italic">Auctor salutis omnium:</hi> Hymnus <hi rend="italic">Auctor salutis unicus</hi> (AH 51 Nr. 57, Anfang; vgl. auch Gjerl&#x00F8;w 1979, S. 241); <hi rend="italic">Jesu nostrum refugium:</hi> Hymnus <hi rend="italic">Jesu nostra redemptio</hi> (AH 51 Nr. 95, Anfang); <hi rend="italic">te invocamus cernui: veneremur cernui</hi> (Hymnus AH 50 Nr. 386, Str. 5, V. 2); <hi rend="italic">sanguine&#x2026; redimere:</hi> cf. Oration der Messe zum H1. Blut-Fest im Missale Nidrosiense 1519 &#x003D; Corpus Orationum Nr. 2149); <hi rend="italic">iungere&#x2026; cuneis:</hi> cf. <hi rend="italic">meramur&#x2026; misceri coetui patriarcharum cuneis prophetarum&#x2026;</hi> (Bernhardus Claraevallensis, &#x00AB;Sermo 5 in festivitate omnium sanctorum&#x00BB;, <hi rend="italic">Opera omnia,</hi> ed. J. Leclercq et H.M. Rochais, Bd. 5, Rom 1968, S. 365).</p>
+</div>
+<div subtype="uchapter">
+<head type="sub">Antiphona M-A2</head>
+<lg>
+<l>Beata vere civitas</l>
+<l>quam illustrat divinitas</l>
+<l>Jerusalem caelestibus</l>
+<l>exornata lapidibus</l>
+<l>in cuius aedificia</l>
+<l>nos adducere digneris</l>
+<l>quos tuo Jesu domine</l>
+<l>liberasti sanguine.</l>
+<l>Ps. Caeli enarrant &#x005B;Ps. 18&#x005D;</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Text: <hi rend="italic">Beata&#x2026; lapidibus:</hi> Anklang an den Hymnus <hi rend="italic">Urbs beata Hierusalem</hi> (AH 51 Nr. 103, Str. 1. Vgl. Gjerl&#x00F8;w 1979, S. 241).</p>
+</div>
+<pb n="34"/>
+<div subtype="uchapter">
+<head type="sub">Antiphona M-A3</head>
+<lg>
+<l>Clementissime domine qui pro nostra miseria ab impiorum manibus mortis supplicium pertulisti, libera redemptos tuos ab<note type="footnote"><hi rend="italic">ab</hi> auf Rasur</note> inferni voragine et cuncta eis peccata oblivione perpetua dele, pro quibus venerandum corpus tradidisti atque pretiosum sanguinem effudisti.</l>
+<l>Ps. Domini est &#x005B;Ps. 23&#x005D;</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Melodie und Text: <hi rend="italic">Clementissime&#x2026; dele:</hi> Antiphon <hi rend="italic">Clementissime domine</hi> (Totenoffizium nach zisterziensischem Ritus; s. Fran&#x00E7;ois Huot, &#x00AB;L&#x0027;Antiphonaire cistercien au XIIe si&#x00E8;cle d&#x0027;apres les manuscrits de la Mairgrauge&#x00BB;, in: <hi rend="italic">Zeitschrift f&#x00FC;r Schweizerische Kirschengeschichte</hi> 65 (1971), S. 310); ab <hi rend="italic">pro quibus venerandum</hi> Eigengut von Nidaros. Hinweis von Gisela Attinger.</p>
+</div>
+<div subtype="uchapter">
+<head type="sub">Responsorium M-R1</head>
+<lg>
+<l>Dignus es domine accipere librum et aperire signacula eius, quoniam occisus es redemisti nos deo<note type="footnote"><hi rend="raised">1</hi>-<hi rend="italic">o</hi> auf Rasur</note> in sanguine tuo</l>
+<l>V. Fecisti enim nos deo nostro regnum et sacerdotes. In.</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Melodie un Text: CAO 6448 (mit Versus B).</p>
+</div>
+<div subtype="uchapter">
+<head type="sub">Responsorium M-R2</head>
+<lg>
+<l>O vere digna hostia cuius roseo cruore salus mundo et vitae reddita erant praemia, qui pro nobis perditis sui sanguinis solvit pretium.</l>
+<l>V. Qui propriam animam ponens et resumens tyrannum trudens vinculo nobis reseravit paradisum. Qui.</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Melodie: <hi rend="italic">O quantus fidei fervor,</hi> Offizium f&#x00FC;r St. Olav (Gjerl&#x00F8;w 1968, S. 372; Nachweis Gisela Attinger, in diesem Band S. 113).</p>
+<p rend="noIndent">Text: <hi rend="italic">O vere digna hostia:</hi> Str. 5 V. 1 des Hymnus <hi rend="italic">Ad cenam agni</hi> (AH 51 Nr. 83); <hi rend="italic">cuius roseo cruore</hi>: AH 51 Nr. 83, Str. 2 V. 3; <hi rend="italic">vitae reddita erant premia:</hi> AH 51 Nr. 83, Str. 5 V. 5 (andere Wortfolge); <hi rend="italic">sui sanguis solvit pretium</hi>: cf. z.B. CAO 4744 (<hi rend="italic">per pretium justi sanguinis tui)</hi> u. auch Str. 2 V. 4 des Vesperhymnus (s. oben); <hi rend="italic">qui propriam animam ponens</hi>: cf. I Joh. 3,16 (<hi rend="italic">pro nobis animam suam posuit</hi>); <hi rend="italic">tyrannum trudens vinculo nobis reseravit paradisum</hi>: AH 51 Nr. 83, Str. 6 V. 3-4 (etwas abweichend). Hinweise auf AH 51 Nr. 83 schon bei Gjerl&#x00F8;w 1979, S. 238.</p>
+</div>
+<pb n="35"/>
+<div subtype="uchapter">
+<head type="sub">Responsorium M-R3</head>
+<lg>
+<l>Domine Jesu Christe salus et vita morientium, qui hominem perditum redemisti, propter quem tuum pretiosum sanguinem mortis exsolvisti pretium.</l>
+<l>V. Memor esto congregationis tuae, quam possedisti ab initio, pro qua non dubitabas manibus tradi nocentium, ut hominem liberares a morte. Propter.</l>
+<l>V. Gloria patri qui proprio filio non pepercit, gloria eius unigenito pro nobis morti tradito, et spiritui sancto.</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Melodie: <hi rend="italic">Cogitaverunt autem principes</hi> (Gjerl&#x00F8;w 1968, S. 218 Z. 23; als Bezugsgesang nachgewiesen von Gisela Attinger, in diesem Band S. 115).</p>
+<p rend="noIndent">Text: <hi rend="italic">hominem perditum</hi>: cf. V1-A3; <hi rend="italic">quod mortis exsolvisti pretium</hi>: AH 51 Nr. 107, Str. 2 V. 4 (s. V1-H); <hi rend="italic">propter quem</hi>: Bezugsgesang (s. oben); <hi rend="italic">memor esto&#x2026; ab initio</hi>: Ps. 73,2; <hi rend="italic">pro qua&#x2026; nocentium</hi>: Corpus Orationum Nr. 5104 (&#x2026;<hi rend="italic">pro qua dominus noster Jesu Christus non dubitavit manibus tradi nocentium); liberares a morte</hi>: cf. <hi rend="italic">suscitavit eum a mortuis</hi> im Bezugsgesang (s. oben).</p>
+</div>
+</div>
+<div subtype="chapter">
+<head type="main">In secundo nocturno</head>
+<div subtype="uchapter">
+<head type="sub">Antiphona M-A4</head>
+<lg>
+<l>Domine rex omnipotens libera servulos tuos de principibus tenebarum et de locis poenarum pro quibus tui sanguinis pretium exsolvisti, Christe domine duc nos ad consortium electorum tuorum cum quibus gaudeant in saecula.</l>
+<l>Ps. Deus noster. &#x005B;Ps. 45&#x005D;</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Text: <hi rend="italic">Domine rex omnipotens</hi>: cf. CAO 2377 (gleichlautender Beginn, aber sonst keine Ankn&#x00FC;pfungspunkte); <hi rend="italic">libera servulos tuos</hi>: cf. <hi rend="italic">Dole captivos esse tuos servulos</hi>&#x2026; AH 51 Nr. 107, Str. 3 V. 1 (s. oben V1-H); <hi rend="italic">de principibus&#x2026; poenarum</hi>: w&#x00F6;rtliche &#x00DC;bernahme aus Corpus Orationum Nr. 4107b (Begr&#x00E4;bnisliturgie), Hinweis schon bei Gjerl&#x00F8;w 1979, S. 241; <hi rend="italic">ad consortium electorum tuorum: ad electorum tuorum pervenire valeat consortium</hi> (Oration zur monastischen Profess <hi rend="italic">Deus misericors, deus clemens,</hi> vgl. PRM 1, Nr. XVI,8)</p>
+</div>
+<div subtype="uchapter">
+<head type="sub">Antiphona M-A5</head>
+<lg>
+<l>Gregem tuum domine custodi, qui crucem propter homines suscipere dignatus es effundens tuum sanguinem nostrae salutis pretium alleluia.</l>
+<l>Ps. Jubilate &#x005B;Ps. 99&#x005D;.</l>
+</lg>
+<pb n="36"/>
+<p rend="noIndent">Text: <hi rend="italic">Gregem tuum</hi> cf. Corpus Orationum Nr. 2774 (gleichlautender Beginn und Wendung <hi rend="italic">pretioso sanguine redemisti</hi>), diese ist auch Vorbild f&#x00FC;r die Secreta der Messe zum Fest (vgl. Gjerl&#x00F8;w 1979, S. 236); <hi rend="italic">effundens&#x2026; pretium</hi>: cf. <hi rend="italic">sanguis eius&#x2026; effusus est in pretium nostrae salutis</hi> (Schlu&#x00DF; der Antiphon <hi rend="italic">O crux admirabile signum</hi>, CAO 4013).</p>
+</div>
+<div subtype="uchapter">
+<head type="sub">Antiphona M-A6</head>
+<lg>
+<l>Da benignissime deus hanc servis tuis misericordiam ut sint in numero electorum tuorum quos cruore tu proprio redimere dignatus es.</l>
+<l>Ps. Deus iudicium &#x005B;Ps. 71&#x005D;.</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Text: <hi rend="italic">ut sint&#x2026; tuorum</hi> s. oben M-A4; <hi rend="italic">cruore&#x2026; dignatus es</hi> s. oben M-A1 und V1-H, Str. 3 V. 3.</p>
+</div>
+<div subtype="uchapter">
+<head type="sub">Responsorium M-R4</head>
+<lg>
+<l>Verbum patris aeterni vera salus et unica spes mundi, tuo redemptos sanguine aeternalibus domine Jesu Christe non excludas a nuptiis.</l>
+<l>V. Assistentes ergo tuae laudi servulos salva et quos redemisti. Tuo.</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Melodie: CAO 7675 (Sint lumbi vestri), Nachweis von Gisela Attinger, in diesem Band S. 119.</p>
+<p rend="noIndent">Text: <hi rend="italic">Verbum patris&#x2026; mundi: Salvator mundi, verbum patris aeterni</hi> (Corpus Orationum Nr. 5283); <hi rend="italic">assistentes&#x2026; laudi</hi>: cf. <hi rend="italic">Rex Olave nos exaudi assistentes tuae laudi</hi> (Str. 7 der Sequenz f&#x00FC;r den hl. Olav, s. Gjerl&#x00F8;w 1968, S. 127, und AH 55 Nr. 272); <hi rend="italic">a nuptiis</hi>: cf. &#x2026;<hi rend="italic">revertatur a nuptiis</hi> im Bezugsgesang (s. oben). Cf. auch Mt. 25, 1-12.</p>
+</div>
+<div subtype="uchapter">
+<head type="sub">Responsorium M-R5</head>
+<lg>
+<l>Primogenito patris de sinu procedenti, qui descendens ab altis nos proprio sanguine solvit a morte digna laudum vota solvamus, benedicentes illi.</l>
+<l>V. Qui carnis nostrae trabea indutus homo factus servum redemit. Digna.</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Melodie: <hi rend="italic">Revertenti Abraham</hi> (Nachweis Gisela Attinger, in diesem Band S. 120; s. auch unten S. 90ff.).</p>
+<p rend="noIndent">Text: <hi rend="italic">Primogenito&#x2026; procedenti</hi>: cf. <hi rend="italic">unigenitus Filius qui est in sinu Patris</hi> (Joh.1,18); <hi rend="italic">nos proprio&#x2026; morte: proprio sanguine&#x2026; nos&#x2026; a morte liberavit</hi>, V1-A5 (Erweiterung); <hi rend="italic">benedicentes illi</hi>: cf. &#x2026;<hi rend="italic">benedixit illi</hi> (Schlu&#x00DF; des Bezugsgesang &#x005B;s. oben&#x005D;); <hi rend="italic">carnis&#x2026; factus: Heri enim rex noster, trabea carnis indutus, de aula uteri virginalis homo factus visitare dignatus est mundum</hi> (CAO 6810, V. B &#x005B;auch in Nidaros gebr&#x00E4;uchlich: s. Gjerl&#x00F8;w 1968, S. 157 Z. 10&#x005D;, <hi rend="italic">homo factus</hi> Lesart Hs. D).</p>
+</div>
+<pb n="37"/>
+<div subtype="uchapter">
+<head type="sub">Responsorium M-R6</head>
+<lg>
+<l>Completis scriptis a prophetis praetentis dominus crucem sanctificans sanguine fuso, Leviathan sub clave pressit hostilemque tyrannidem cessare fecit.</l>
+<l>V. Recordatus dominus verbi quod promiserat Abrahe fideli suo. Sanguine.</l>
+<l>V. Gloria patri ingenito laus eius unigenito et spiritui sancto. Sanguine.</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Melodie: <hi rend="italic">Peractis centum quinquaginta</hi> (Nachweis Gisela Attinger, in diesem Band S. 122; s. auch unten S. 90ff.).</p>
+<p rend="noIndent">Text: <hi rend="italic">Leviathan sub clave pressit</hi>: cf. <hi rend="italic">Leviathan huis fortitudinem dominus ligavit</hi> (Gregorius Magnus, Moralia in Iob 33,16 CCSL 143B); <hi rend="italic">cessare fecit. Recordatus dominus</hi>: cf &#x2026;<hi rend="italic">pluviasque de caelo cessare fecit. V. Recordatus dominus Noe&#x2026;</hi>, Bezugsgesang (s. oben); <hi rend="italic">Recordatus&#x2026; fideli suo</hi>: cf. <hi rend="italic">recordatus misericordiae suae sicut locutus est ad patres nostros Abraham et semini eius in saecula</hi> (Lc 1, 54f.).</p>
+</div>
+</div>
+<div subtype="chapter">
+<head type="main">In tertio nocturno</head>
+<div subtype="uchapter">
+<head type="sub">Antiphona M-A7</head>
+<lg>
+<l>Gratia dei Jesum Christum, qui nos liberavit sui pretio sanguinis, liberet nos de tenebarum principibus et constituat in caelesti patria gaudentes secum in sempiterna gloria.</l>
+<l>Ps. Cantate I. &#x005B;Ps. 95&#x005D;</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Text: <hi rend="italic">gratia dei&#x2026;</hi>: <hi rend="italic">quis me liberabit&#x2026;? Gratia dei per Jesum Christum</hi> (Rom. 7,24f); <hi rend="italic">de tenebrarum principibus</hi> s. M-A4; <hi rend="italic">et constituat&#x2026; gloria</hi>: cf. <hi rend="italic">et in tuorum sede laetantium consitituas redemptorum,</hi> Corpus Orationum Nr. 5686.</p>
+</div>
+<div subtype="uchapter">
+<head type="sub">Antiphona M-A8</head>
+<lg>
+<l>Domine fons misericordiae, in quo <note type="footnote">-<hi rend="italic">o</hi> auf Rasur</note> lavantur contagia delictorum, sucurre propitius redemptae familiae tuae, et quam effusione pretiosi sanguinis redemisti <note type="footnote">-<hi rend="italic">st</hi>- Korrektur aus <hi rend="italic">redenti</hi></note> post humanam conversationem<note type="footnote"><hi rend="italic">ve</hi> auf Rasur</note> dimissis excessibus sedes clementer pastor bone largire paradisi.</l>
+<l>Ps. Dominus regnavit &#x005B;Ps. 96&#x005D;</l>
+</lg>
+<pb n="38"/>
+<p rend="noIndent">Text: <hi rend="italic">contagia delictorum</hi>: cf. z.B. <hi rend="italic">homo&#x2026; priusquam nascitur subeat contagia delictorum</hi>, Augustinus, &#x00AB;Contra Julianum&#x00BB; 3, 21 (PL 44, 726); <hi rend="italic">post humanam conversationem&#x2026; clementer</hi>: cf. <hi rend="italic">quidquid conversatione contraxerunt humana, et clementer&#x2026;</hi>, Corpus Orationum Nr. 5686 (s. auch oben M-A7!)</p>
+</div>
+<div subtype="uchapter">
+<head type="sub">Antiphona M-A9</head>
+<lg>
+<l>Ave regum rex et domine, qui pietate sola dilexisti tuum gregem nec deviasti crucis fore maledictum, ave nostra dulcedo medicamentum et medice o sanctissime domine, tuo petimus salvari sanguine pro quibus mors morti factus es et morsus inferno.</l>
+<l>Ps. Dominus regnauit II. &#x005B;Ps. 98&#x005D;</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Melodie: CAO 4002 (<hi rend="italic">O beatum pontificem</hi>), Offizium f&#x00FC;r Martin (Nachweis Gisela Attinger, in diesem Band S. 126).</p>
+<p rend="noIndent">Text: <hi rend="italic">nec devistati crucis fore maledictum</hi>: cf. <hi rend="italic">non vitavit filius maledictum crucis</hi>, Aelredus Rievallensis, &#x00AB;Sermo IX&#x00BB;, 11 (CCCM 2A, S. 73); <hi rend="italic">dulcedo&#x2026; o sanctissime domine: dulcedo medicamentum et medice o sanctissima anima&#x2026;</hi>, Bezugsgesang (s. oben); <hi rend="italic">mors morti factus es et morsus inferno: O mors, ero mors tua; morsus tuus ero, inferne</hi> (CAO 4045), s. auch V1-A5.</p>
+</div>
+<div subtype="uchapter">
+<head type="sub">Responsorium M-R7</head>
+<lg>
+<l>Sanguis tuus domine peccatum de peccato dampnans in mortem, populo det redempto, ut a peccato liber et ab hoste sit securus.</l>
+<l>V. In quo nos deo nostro fecisti regnum et sacerdotes, sanguis tuus domine ne pereamus cum impiis. Populo.</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Melodie: <hi rend="italic">Clamor inquit dominus Sodomorum</hi> (Nachweis von Gisela Attinger, in diesem Band S. 127; s. auch unten S. 90ff.).</p>
+<p rend="noIndent">Text: <hi rend="italic">peccatum de peccato dampnans: de peccato damnavit peccatum,</hi> (Rom 8,3); <hi rend="italic">In quo&#x2026; sacerdotes: et fecisti eos Deo nostro regnum et sacerdotes</hi> (Apoc 5,10, s. auch M-R1, Versus, und LA4); <hi rend="italic">cum impiis: cum impio</hi>, Bezugsgesang (s. oben).</p>
+</div>
+<div subtype="uchapter">
+<head type="sub">Responsorium M-R8</head>
+<lg>
+<l>Gratia dominica de morte triumphans callidi serpentis fraudem conterens. hostem superavit pro liberandis poena quos tenuit.</l>
+<l>V. Per cuius undam sanguinis quam devorarat impius absortam refudit tartarus praedam. Pro.</l>
+</lg>
+<pb n="39"/>
+<p rend="noIndent">Melodie: <hi rend="italic">Igitur Abraham de nocte</hi> (Nachweis Gisela Attinger, in diesem Band S. 127; s. auch unten S. 90ff.).</p>
+<p rend="noIndent">Text: <hi rend="italic">de morte triumphans</hi>: cf. <hi rend="italic">primus omnium de morte triumphans</hi>, Johannes de Forda, &#x00AB;Super extremam partem Cantici Canticorum sermo&#x00BB; 3 (CCCM 17, S. 53); <hi rend="italic">callidi serpentis</hi>: cf. <hi rend="italic">serpens erat callidior cunctis animantibus terrae</hi> (Gen 3,1).</p>
+</div>
+<div subtype="uchapter">
+<head type="sub">Responsorium M-R9</head>
+<lg>
+<l>Summa laus Jesu Christo sit per aevum, qui dum ligni maledictum factus est propter hominem ad ovile patris lapsus tractus est homo.</l>
+<l>V. Cuius dum militis lancea latus foderetur, sanguis effluxit, per quem morte devicta. Ad ovile.</l>
+<l>V. Gloria patri et filio et spiritui sancto<note type="footnote">Fortsetzung am Rand von anderer, aber zeitgen&#x00F6;ssischer Hand: <hi rend="italic">Sicut erat primo et nunc et semper. ad ovile.</hi></note></l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Melodie: <hi rend="italic">Benedicens ergo deus Noe</hi> (Nachweis Gisela Attinger, in diesem Band S. 128; s. auch unten S. 90ff.).</p>
+<p rend="noIndent">Text: <hi rend="italic">ligni maledictum factus est propter hominem</hi>: cf. <hi rend="italic">factus pro nobis maledictum quia scriptum est maledictus omnis qui pendet in ligno</hi> (Gal 3,13); <hi rend="italic">Cuius dum militis&#x2026; effluxit</hi>: cf. <hi rend="italic">unus militum lancea latus eius aperuit et continuo exivit sanguis et aqua</hi> (Joh 19,34).</p>
+</div>
+</div>
+<div subtype="chapter">
+<head type="main">Laudes</head>
+<div subtype="uchapter">
+<head type="sub">&#x005B;Antiphona&#x005D; L-A1</head>
+<lg>
+<l>Crux benedicta nitet, dominus qua carne pependit atque cruore suo <note type="footnote">-<hi rend="italic">o</hi> auf Rasur</note> vulnera nostra lavit.</l>
+<l>Ps. Dominus regnavit. &#x005B;Ps. 92&#x005D;</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Melodie und Text: CAO 1961.</p>
+</div>
+<div subtype="uchapter">
+<head type="sub">Antiphona L-A2</head>
+<lg>
+<l>Salvator mundi, salva nos, qui per crucem et sanguinem redemisti nos, auxiliare nobis te deprecamur deus noster.</l>
+<l>Ps. Jubilate &#x005B;Ps. 99&#x005D;</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Melodie und Text: CAO 4690.</p>
+</div>
+<pb n="40"/>
+<div subtype="uchapter">
+<head type="sub">Antiphona L-A3</head>
+<lg>
+<l>Orabat Christus in caelum ad patrem ascensurus: commendo tibi pie pater filios tuos, quos dedisti mihi quosque proprio sanguine generavi ecclesiae.</l>
+<l>Ps. Deus deus &#x005B;Ps. 62&#x005D;</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Melodie un Text: Adaption von <hi rend="italic">Orabat sanctus Johannes ad Christum moriturus: commendo tibi pie pater filios tuos quos tibi virgo mater per spiritum sanctum regeneravit ecclesia</hi> (Nachweis von Gisela Attinger, in diesem Band S. 131).</p>
+</div>
+<div subtype="uchapter">
+<head type="sub">Antiphona L-A4</head>
+<lg>
+<l>Redemisti nos deus in sanguine tuo ex omni tribu et lingua et populo<note type="footnote"><hi rend="italic">populo</hi> von der Haupthand (?) nachgetragen</note> et natione et fecisti nos deo nostro regnum.</l>
+<l>Ps. Benedicte &#x005B;Canticum trium puerorum, Dan. 3&#x005D;.</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Melodie und Text: CAO 4586.</p>
+</div>
+<div subtype="uchapter">
+<head type="sub">Antiphona L-A5</head>
+<lg>
+<l>Ecce de quo Johannes dicit: Christus natus est in Israel et regni eius non erit finis. Ecce agnus dei ecce qui pio cruore crimina lavit mundi<note type="footnote"><hi rend="italic">lavit mundi</hi> Umstellungszeichen &#x2192; <hi rend="italic">mundi lavit</hi></note>.</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Melodie: cf. Gisela Attinger, in diesem Band. S 133.</p>
+<p rend="noIndent">Text: CAO 2501 mit Erweiterung (<hi rend="italic">Ecce agnus dei&#x2026;).</hi></p>
+</div>
+<div subtype="uchapter">
+<head type="sub">&#x005B;Hymnus&#x005D; L-H</head>
+<lg subtype="stanza" n="1">
+<head type="stanzanumber">&#x005B;1.&#x005D;</head>
+<l>Magnae deus potentiae<note type="footnote">dar&#x00FC;ber von etwas sp&#x00E4;terer Hand: <hi rend="italic">clementie</hi></note></l>
+<l>qui ex aquis ortum genus</l>
+<l>partim remittis gurgiti</l>
+<l>partim levas in aera.</l>
+</lg>
+<lg subtype="stanza" n="2">
+<head type="stanzanumber">&#x005B;2.&#x005D;</head>
+<l>Dimersa limphis imprimens</l>
+<l>subiecta celis irrogans</l>
+<l>ut stirpe una prodita</l>
+<l>diversa rapiant loca.</l>
+</lg>
+<lg subtype="stanza" n="3">
+<head type="stanzanumber">&#x005B;3.&#x005D;</head>
+<l>Largire cunctis servulis</l>
+<l>quos mundat unda sanguinis</l>
+<pb n="41"/>
+<l>nescire lapsum criminum</l>
+<l>nec ferre <note type="footnote"><hi rend="italic">ferre auf Rasur</hi></note> mortis taedium.<note type="footnote">Randnachtrag (gleiche Hand wie beim Matutin-Hymnus): &#x005B;4.&#x005D; <hi rend="italic">Vt culpa nullum deprimat nullum levet iactantia elisa mens ne concidat elata mens ne corruat. Honor.</hi></note></l>
+</lg>
+<lg subtype="stanza" n="4">
+<head type="stanzanumber">&#x005B;5.&#x005D;</head>
+<l>Honor decus imperium</l>
+<l>sit trinitati unicae</l>
+<l>patri nato paraclito</l>
+<l>per infinita saecula. amen.</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Melodie: cf. Gisela Attinger, in diesem Band S. 133.</p>
+<p rend="noIndent">Text: Str. 1-3 &#x003D; AH 51 Nr. 38, Str. 1-3; Str. 4 hier als Randnachtrag; Str. 5 &#x003D; AH 51 Nr. 74, Str. 13.</p>
+</div>
+<div subtype="uchapter">
+<head type="sub">Antiphona L-Ab</head>
+<lg>
+<l>Laetentur omnes populi tantae festivitatis gloria, quia hodie rex caelorum pro nobis<note type="footnote"><hi rend="italic">no</hi>- nachgetragen</note>, qui factus est crucis maledictum quique proprio sanguine nos a mortis vinculo eripere dignatus est, in nostrae carnis substantia ad nos venire voluit ergo pro tantis tamque venerandis beneficiis redemptori nostro dicamus omnes: benedictus dominus deus Israel alleluia alleluia.</l>
+<l>Ps. Benedictus dominus &#x005B;Cant. Zachariae, Lc 1&#x005D;.</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Melodie: cf. Gisela Attinger, in diesem Band S. 135.</p>
+<p rend="noIndent">Text: <hi rend="italic">Laetentur&#x2026; nobis</hi>: CAO 3568 (Anfang); <hi rend="italic">pro nobis&#x2026; maledictum</hi>: cf. M-R9; <hi rend="italic">pro tantis&#x2026; dicamus omnes</hi>: cf. <hi rend="italic">pro tantis beneficiis&#x2026; dicamus singuli dicamus omnes&#x2026; Ipsi gloriam in saecula saeculorum,</hi> Ambrosius Autpertus, &#x00AB;Expositio in Apocalypsin&#x00BB; 1, 6a (CCCM 27, S. 49); <hi rend="italic">benedictus&#x2026;:</hi> Incipit des Canticum.</p>
+</div>
+<div subtype="uchapter">
+<p>Super horas diurnales antiphonae laudibus &#x005B;&#x003D; L-A1-L-A5&#x005D;.</p>
+<p>Ad III responsorium <hi rend="italic">Suscepimus deus misericordiam tuam. V. In medio</hi>&#x005B;CAO 7743&#x005D;.</p>
+<p>Ad VI &#x005B;responsorium&#x005D; <hi rend="italic">Notum fecit dominus</hi> &#x005B;CAO 7241&#x005D;.</p>
+<p>Ad IX &#x005B;responsorium&#x005D; <hi rend="italic">Viderunt omnes fines terrae.</hi> V. <hi rend="italic">Omnis terra adoret.</hi></p>
+</div>
+<div subtype="uchapter">
+<head type="sub">&#x005B;Ad secundas vesperas&#x005D;</head>
+<p>Ad vesperas laudes matutinae &#x005B;L-A1-L-A5&#x005D; super psalmos <hi rend="italic">Dixit domini, Confitebor, Beatus vir, Laudate pueri, Laudate dominum omnes gentes</hi> <pb n="42"/>&#x005B;&#x003D; Pss. 109-112, 116&#x005D;. Responsorium <hi rend="italic">Summa laus</hi> &#x005B;&#x003D; M-R9&#x005D;. Hymnus <hi rend="italic">Salve lux</hi> &#x005B;&#x003D; V1-H&#x005D;</p>
+</div>
+<div subtype="uchapter">
+<head type="sub">Antiphona V2-Am</head>
+<lg>
+<l>Rex saeculorum, qui ut servum redimeres nostrae substantia carnis indui dignatus es, exaudi servulos in tuis sanguinis susceptione te laudantes, et tuo redemptos sanguine facias tecum vivere, Christe<note type="footnote"><hi rend="italic">Christe</hi> auf Rasur</note> caput nostrum Jesu finis liberationis nostrae.</l>
+<l>Ps. Magnificat &#x005B;Cant. Mariae, Lc 1&#x005D;.</l>
+</lg>
+<figure rend="leftHorizRule"/>
+<p rend="noIndent">Melodie und Text: Adaption von <hi rend="italic">Rex saeculorum quem laudat</hi> (in Nidaros verwendet f&#x00FC;r das Fest des hl. Benedikt, s. Gjerl&#x00F8;w 1968, S. 325), vgl. Gjerl&#x00F8;w 1979, S. 241.</p>
+</div>
+</div>
+</div>
+</body>
+</text>
+</TEI>

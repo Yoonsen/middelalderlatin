@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-// TEI P5 //EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="lap56">
+<teiHeader xml:lang="nob">
+<fileDesc>
+<titleStmt>
+<title>
+Korpusfil: <ref type="external" target="https://urn.nb.no/URN:NBN:no-nb_digibok_2016062108183">Oluf Kolsrud og Georg Reiss: <title rend="italic">Tvo norr&#x00F8;ne latinske kv&#x00E6;de med melodiar</title>, Kristiania, 1913</ref>, s. 38-43
+<lb/><hi rend="italic">Digital corpus and dictionary of Norwegian Medieval Latin texts</hi>
+<lb/>Nasjonalbiblioteket 2018
+<lb/>Publiseres som del av digitalt tekstkorpus, kun latinsk tekst er tatt med.
+</title>
+</titleStmt>
+<publicationStmt>
+<p>Publiseres som del av digitalt tekstkorpus: Norwegian Medieval Latin texts, Nasjonalbiblioteket 2018 (https://www.nb.no/forskning/medieval-latin/)</p>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<title><ref type="external" target="https://urn.nb.no/URN:NBN:no-nb_digibok_2016062108183">Tvo norr&#x00F8;ne latinske kv&#x00E6;de med melodiar</ref></title>
+<editor>Oluf Kolsrud</editor>
+<editor>Georg Reiss</editor>
+<publisher>Jacob Dybwad</publisher>
+<pubPlace>Kristiania</pubPlace>
+<date when="1913">1913</date>
+<note type="fileDesc">Transkribert og kodet av Stian Brynildsen for Nasjonalbiblioteket</note>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<langUsage>
+<language ident="nbo">Norsk bokm&#x00E5;l</language>
+<language ident="lat">Latin</language>
+</langUsage>
+</profileDesc>
+<revisionDesc>
+<change who="ENW" when="2018-11-30">Lagt til bibl i sourceDesc. Validert.</change>
+<change xml:id="ENW" who="ENW" when="2018-10-22">Sjekket XML-koding, noen justeringer. Lagt til lang-attributter og langUsage i teiHeader. Fil valid og velformet.</change>
+<change xml:id="SB" who="SB" when="2018-07-25">Transkripsjon og koding.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="lap54_LatinskeKvaede" xml:lang="lat">
+<body>
+<div subtype="poem">
+<head type="main">&#x005B;Hymnus in honorem Sancti Magni comitis Orchadi&#x00E6;.&#x005D;</head>
+<head type="sub">(Cod. Upsal. C233, fol. 19<hi rend="raised">V</hi>23-20<hi rend="raised">r</hi>; hand <hi rend="bold">g</hi>.)
+<lb/>(Pl. II.)</head>
+<lg type="stanza" n="1">
+<head type="stanzaNumber">&#x005B;1&#x005D;</head>
+<l rend="indent_1">Nobilis</l>
+<l rend="indent_1">humil&#x00ED;s</l>
+<l>Magne martir &#x17f;tabili&#x17f;</l>
+<l rend="indent_1">abili&#x17f;</l>
+<l rend="indent_1">utili&#x17f;</l>
+<l>come&#x17f; uenerabili&#x17f;</l>
+<l><hi rend="italic">et</hi> tuto&#x03B6; laudabili&#x17f;</l>
+<l rend="indent_half">tuo&#x17f; &#x17f;ubdito&#x17f; ferua carn&#x00ED;&#x17f; fragili&#x17f;</l>
+<l>&#x17f;erua carni&#x17f; fragili&#x17f;</l>
+<l rend="indent_half">mole po&#x17f;ito&#x17f;.<note type="footnote">jfr. Olavshymna i Roskilde-breviaret, str. 3: &#x00AB;Mole carnis aggravatus &#x2013; &#x2013; &#x2013;&#x00BB; (Mon. hist. Norv., 261 1).</note></l>
+</lg>
+<lg type="stanza" n="2">
+<head type="stanzaNumber">&#x005B;2&#x005D;</head>
+<l rend="indent_1">Pred&#x00ED;t<hi rend="italic">us</hi></l>
+<l rend="indent_1">celitus</l>
+<l>dono &#x17f;ancti &#x17f;p&#x00ED;r&#x00ED;t<hi rend="italic">us</hi></l>
+<l rend="indent_1">u&#x00ED;u<hi rend="italic">ere</hi></l>
+<l rend="indent_1">temere</l>
+<l>&#x17f;ummo caue&#x17f; opere</l>
+<l>carn&#x00ED;&#x17f; mot<hi rend="italic">us</hi> p<hi rend="italic">re</hi>m<hi rend="italic">ere</hi></l>
+<l rend="indent_half">&#x17f;tude&#x17f; pen&#x00ED;tu&#x17f;</l>
+<l>ut carni&#x17f; &#x00ED;n carcere</l>
+<l rend="indent_half">regnet &#x17f;p&#x00ED;r&#x00ED;tu&#x17f;.</l>
+</lg>
+<lg type="stanza" n="3">
+<head type="stanzaNumber">&#x005B;3&#x005D;</head>
+<l rend="indent_1">Socia .</l>
+<l rend="indent_1">regia .</l>
+<l>tibi u&#x00ED;r&#x00ED; nec&#x17f;&#x00ED;a .</l>
+<l rend="indent_1">tradit<hi rend="italic">ur</hi> .</l>
+<l rend="indent_1">&#x17f;ubdit<hi rend="italic">ur</hi> .<note type="footnote">&#x00AB;han bat ser &#x00E6;innar meyiar hinnar dyrdligstu &#x00E6;ttar af Skotlande ok drak brudhlaup til&#x00BB; (Orkn. p. i Flb. II, 431); &#x2013; &#x00AB;feck hann sier oc fastnadi eina rikborna jungfru oc hina ski&#x00E6;ruzstu mey af hinum tignuzstum Skotlandz hofpingia &#x00E6;ttum, oc flutti heim til sin oc gerdi brudkaup til&#x00BB; (Magn. s. h., c. 14. 1780, p. 466).</note></l>
+<pb n="39"/>
+<l>ca&#x17f;ta ca&#x17f;to &#x00ED;ungit<hi rend="italic">ur</hi> .</l>
+<l>na<hi rend="italic">m</hi> neut<hi rend="italic">er</hi> illudit<hi rend="italic">ur</hi></l>
+<l rend="indent_half">&#x17f;ic decenn&#x00ED;o .<note type="footnote">&#x00AB;bygde han .x. uetr hia henne suo at hann spillti huorskis peirra losta ok uar hr&#x00E6;inn ok fleklaus allra saurlifis synda. ok er hann kende freistne a ser pa for hann j kallt uatnn ok bat ser fulltings af gude&#x00BB; (Orkn. p. i Flb.II, 431); &#x2014; &#x00AB;bygdi x. vetr h&#x00ED;a pessari meyu herinn oc hlutlauss gersamligra allra saurlifiss synda, enn er hann kiendi &#x00E1; sier freistni til likams losta, p&#x00E1; for hann i kallt vatn, oc bad sier fullt&#x00ED;ngis af Gudi&#x00BB; (Magn. s. h., e. 14. 1780, p. 466).</note><note type="footnote"><lg><head type="sub">Hymnus I ad matutinum et vesperas, str. 4. (Vigf. II, 306):</head><l>Sic in cubiculo sponsus cum virgine,</l><l>Insigni titulo, pro! continenti&#x00E6;,</l><l>Vivit a Venere divino munere</l><l>Annis decem continue.</l></lg><lg><head type="sub">Hymnus II divisus in responsoria, ad IX lectiones officii Matutini, str. 4 (Vigf. III, 31 I. 321):</head><l>Preter carnem in carne vivere</l><l>Studet Magnus divino munere:</l><l>Miro p&#338;ne se domans genere.</l><l>Annis decem in thoro virginis</l><l>Labe carens mansit libidinis.</l></lg><lg><head type="sub">Hymnus III distributus in antiphonas, str. 2 (Vigf. III, 310. 321):</head><l>Vir sanctus in comitem digne sublimatus,</l><l>Carnem per continuos domat cruciatus.</l></lg><lg><head type="sub">Sequentia in festo translationis, str. 2 (Vigf. III, 328):</head><l>Spreto virgo s&#x00E6;culo</l><l>annorum curriculo</l><l>decem est cum virgine.</l></lg></note></l>
+<l>rub<hi rend="italic">us</hi> no<hi rend="italic">n</hi> <hi rend="italic">com</hi>burit<hi rend="italic">ur</hi></l>
+<l rend="indent_half">i<hi rend="italic">n</hi> &#x00ED;ncend&#x00ED;o .<note type="footnote"><lg><head type="sub">Hymnus I ad matuitinum et vesperas, str. 3 (Vigf. III, 306):</head><l>arderere creditur, sed non exuritur,</l><l>Rubus dum florens cernitur.</l></lg></note><note type="footnote">Magn&#x00FA;s saga helga c. 14 (1780, p. 468): &#x00AB;Se, miner ki&#x00E6;ruzstu, pessi er s&#x00FA; hin mikla s&#x00FD;n er Moisis s&#x00E1; runninn loganda oc egi brennanda&#x00BB;. Jfr. Exodus III 2-4 (Vulgata): &#x00AB;Apparuitque ei Dominus in flamma ignis de medio rubi; et videbat quod rubus arderet, et non combureretur. Dixit ergo Moyses: Vadam et videbo visionem hanc magnam, quare non comburatur rubus. Cernens autem Dominus quod pergeret ad videndum, vocavit eum de medio rubi, et ait: Moyses, Moyses!&#x00BB;</note></l>
+</lg>
+<lg type="stanza" n="4">
+<head type="stanzaNumber">&#x005B;4&#x005D;</head>
+<l rend="indent_1">Turbid<hi rend="italic">us</hi> .</l>
+<l rend="indent_1">i<hi rend="italic">n</hi>u&#x00ED;<hi rend="italic">us</hi></l>
+<l rend="indent_half">ho&#x17f;ti&#x17f; Haco callid<hi rend="italic">us</hi> .</l>
+<l rend="indent_1">&#x17f;t<hi rend="italic">er</hi>nere .</l>
+<l rend="indent_1">terere .</l>
+<l>tua &#x17f;ibi &#x17f;ubdere .</l>
+<l>te cupit <hi rend="italic">et</hi> p<hi rend="italic">er</hi>dere</l>
+<l rend="indent_half">doli &#x17f;p&#x00ED;culo .</l>
+<l>&#x00ED;u<hi rend="italic">n</hi>cto fraud<hi rend="italic">is</hi> fed<hi rend="italic">ere</hi></l>
+<l rend="indent_half">pacis ofc<hi rend="italic">u</hi>lo .</l>
+</lg>
+<lg type="stanza" n="5">
+<head type="stanzaNumber">&#x005B;5&#x005D;</head>
+<l rend="indent_1">Grau&#x00ED;a</l>
+<l rend="indent_1">ted&#x00ED;a</l>
+<l>feren&#x17f; p<hi rend="italic">ro</hi> iu&#x17f;t&#x00ED;c&#x00ED;a .</l>
+<l rend="indent_1">rap<hi rend="italic">er</hi>i &#x17f; .</l>
+<l rend="indent_1">t<hi rend="italic">ra</hi>heri&#x17f; .</l>
+<l>demu<hi rend="italic">m</hi> &#x00ED;ctu funeri&#x00ED;u&#x17f; .<note type="footnote">&#x00AB;Eftir pat signdi hann vndir hoggit ok leid on hans til himins&#x00BB; (Orkn. p. i Flb. II, 434); &#x2013; &#x00AB;eptir pat signdi Magnus iarl sic oc laut undir h&#x00F6;ggit, enn L&#x00ED;folfr hi&#x00F3; i haufut h&#x00F6;num mikit h&#x00F6;gg med &#x00F6;xi. P&#x00E1; m&#x00E6;liti H&#x00E1;kon iarl, h&#x00F6;gg p&#x00FA; annat; pa hi&#x00F3; L&#x00ED;folfr i hit sama s&#x00E1;rit, pa fell hinn heilagi Magnus iarl &#x00E1; knien oc f&#x00F3;r med pessu pislarvÃ¦tti af ves&#x00F6;lldum pessa heims, til eil&#x00ED;fra himnark&#x00ED;kis fagnada&#x00BB; (Magn. s. h., c. 25. 1780, p. 500); &#x2013; &#x00AB;securi bis in cerebrum fuum vibrata, securus ictum ferientis suscepit&#x00BB; (Legenda de S. Magno, Vigf. III, 304. 313).</note></l>
+<l>ab &#7823;m&#x00ED;f extolleri&#x17f; .</l>
+<l rend="indent_half">ad cele&#x17f;tia .</l>
+<l>&#x17f;ic X<hi rend="italic">pisto</hi> <hi rend="italic">con</hi>&#x00ED;u<hi rend="italic">n</hi>gerif</l>
+<l rend="indent_half">p<hi rend="italic">er</hi> &#x17f;upplic&#x00ED;a .<note type="footnote">&#x00AB;sotti Magnus jall pa upp a eyna med lid sitt ok til kirkiu til b&#x0119;nar ok uar par um nottina&#x00BB;: &#x2013; &#x2013; &#x00AB;hann badst firir r&#x00E6;kiliga ok let syngia ser messu&#x00BB;; &#x2013; &#x2013; &#x00AB;ok er Hakon sa hann hliopu peir pangat med ope ok uopnabrake. Magnus jall uar pa a b&#x00E6;n sinne er peir komu til hans&#x00BB;; &#x2013; &#x2013; &#x00AB;eftir pessa r&#x00E6;du fell hann til b&#x00E6;nar ok lau(t) j gaupnir ser ok hellt(i) vt morgum taarum j guds augliti&#x00BB;; &#x2013; &#x2013; &#x00AB;sipan bat han ser leyfis at bidiaz fyrir ok pat var honum veitt. hann fell til iardar ok gaf sik gudi ok f&#x00E6;rdi honum sialfann sik i forn. eigi at eins bad hann fyrir ser edr vinum sinum helldr ok par med fyrir vuinum sinum ok banamonnum ok fyrirgaf peim af ollum hug pat er peir misgerdu med hann ok iatti gud sinar misgerdir ok bad p&#x00E6;r af ser puaz in vthellingu blods sins ck fal ond sina gudi a hendi ok bad guds eingla koma i mot saal sinni ok f&#x00E6; hana i huilld paradisar&#x00BB; &#x2013; &#x2013; (Orkn. p. i Flb. II, 433 f.; jfr. Magn. s. h., c. 23. 25. 1780, p. 490. 492. 494. 498. 500). &#x2013; &#x00AB;Eductus ergo hilari mente et intrepido animo, quasi ad epulas invitatus, agonem suum Domino precibus commendans&#x00BB; &#x2013; &#x2013; (Legenda de S. Magno, Vigf. III, 304. 313).</note></l>
+</lg>
+<lg type="stanza" n="6">
+<head type="stanzaNumber">&#x005B;6&#x005D;</head>
+<l rend="indent_1">E&#7823;a</l>
+<l rend="indent_1">glo<hi rend="italic">y</hi>ia</l>
+<l>&#x17f;gno&#x03B6;<hi rend="italic">um</hi> frequenc&#x00ED;a .</l>
+<l rend="indent_1">can&#x00ED;tur</l>
+<l rend="indent_1">agit<hi rend="italic">ur</hi></l>
+<l>Xp<hi rend="italic">istus</hi> bened&#x00ED;cit<hi rend="italic">ur</hi></l>
+<l><hi rend="italic">et</hi> tibi lau&#x17f; redditur</l>
+<l rend="indent_half">&#x00ED;n ecclelau&#x17f;&#x00ED;a</l>
+<l>o quam felix cern&#x00ED;tur</l>
+<l rend="indent_half">h&#x00ED;nc O&#x03B6;chadia .</l>
+</lg>
+<pb n="40"/>
+<lg type="stanza" n="7">
+<head type="stanzaNumber">&#x005B;7&#x005D;</head>
+<l rend="indent_1">Om<hi rend="italic">n</hi>b<hi rend="italic">us</hi></l>
+<l rend="indent_1">ladib<hi rend="italic">us</hi></l>
+<l>tui&#x17f; &#x00ED;n&#x17f;i&#x17f;tenti<hi rend="italic">us</hi></l>
+<l rend="indent_1">gr<hi rend="italic">ci</hi>am</l>
+<l rend="indent_1">uen&#x00ED;am</l>
+<l><hi rend="italic">et</hi> et<hi rend="italic">er</hi>nam gl<hi rend="italic">or</hi>&#x00ED;am</l>
+<l>precum p<hi rend="italic">er</hi> &#x00ED;n&#x17f;tanciam</l>
+<l rend="indent_half">p<hi rend="italic">ate&#x03B6;</hi> opt&#x00ED;ne .</l>
+<l>hanc &#x17f;aluan&#x17f; famil&#x00ED;am</l>
+<l rend="indent_half">a di&#x17f;cr&#x00ED;m&#x00ED;<hi rend="small-caps">ne</hi> .</l>
+<l rend="indent_1">ame<hi rend="small-caps">n</hi></l>
+</lg>
+</div>
+<pb n="41"/>
+<div subtype="poem">
+<head type="main"><hi rend="italic">&#x005B;Carmen gratulatorium in nuptias Eyrici regis Norwagi&#x00E6; A. D. 1281.&#x005D;</hi></head>
+<head type="sub">(Cod. Upsal. C 233, fol. 50<hi rend="raised">V</hi>-51<hi rend="raised">r</hi>; hand <hi rend="bold">g.</hi>)</head>
+<head type="sub">(Pl. VI.)</head>
+<lg type="stanza" n="1">
+<head type="stanzaNumber">&#x005B;1&#x005D;</head>
+<l>Ex te lux o&#x03B6;&#x00ED;tur o dulci&#x17f; Scocia</l>
+<l>qua uere no&#x17f;cit<hi rend="italic">ur</hi> fulgens No&#x03B6;wag&#x00ED;a .</l>
+<l>Que cu<hi rend="italic">m</hi> t<hi rend="italic">ra</hi>n&#x17f;uehit<hi rend="italic">ur</hi> trahis &#x17f;u&#x17f;p&#x00ED;r&#x00ED;a</l>
+<l>tu&#x00ED; &#x17f;ub<hi rend="italic">ra</hi>h&#x00ED;tur q<hi rend="italic">uo</hi>d regi&#x17f; filia .<note type="footnote">Chronicon de Lanercost 1201-1346, ed. Jos. Stevenson (Edinburgi 1839. Bannatyne club LXVIII. Maitland club XLVI), pag. 104-105, A. D. 1280: &#x00AB;Reliquerat hoc tempore rex Norwegi&#x00E6; defunctus filium fibi fuccefforem appellatum Magnum, qui audiens regem Scoti&#x00E6; generofam et formofam ac morigerofam habere filiam virginem, infuper et fu&#x00E6; &#x00E6;tati competentem, quoniam erat et ipfe annorum circiter formofus adultus octodecim, quiefcere nequivit donec miffis bis nunciis folemnibus, tam religiofis quam potentibus, confortem conjugii et collegam regni eam experet. Verum antequam finem hujus matrimonii fermone concludam, referam ad laudem Dei et fervi fui, quod ab ipfis nunciis de fuo rege relatum attendere poterit affectus hominum. Pater hujus regis religionem fancti Francifci plurimum diligens, filios ejus plurimum coluit, ac in eorum fcholis facr&#x00E6; theologi&#x00E6; non fegniter intendit, ubi et fibi maufoleum ftatuit. Accidit ut regina die fancti nominati &#x005B;&#596;: Julii 16&#x005D; primum ederet partum, pudibundum regno magis quam jucundum, urfi non viri pr&#x00E6;ferens pignus, utpote fruflum carnis, non filium. Quod cum regi perlatum fuiffet, ille fide plenus ait, &#x00AB;involvite lintheo mundo et hora conficiendi fuperponite fancti Francifci altario&#x00BB;. Quod cum impletum fuiffet venientes in fine miff&#x00E6;, ut reciperent quod repofuerant, puerum formofum intus vagientem reperiunt, et Deo gratias l&#x00E6;ti et fancto referunt. Is adultus factus Domicellam, ut dictum eft, maritagio petiit, et licet multum effet animo puell&#x00E6; contrarium necnon parentum et amicorum, eo quod alibi multo facilius et decentius copulaffe potuiffet, connubium, folius regis patris fui propofito hoc initum eft pactum ut cum ea daret feptemdecim milla marcarum, principaliter pro f&#338;dere nuptiarum, accefforie vero pro redemptione juris Infularum. Impofita eft igitur navi apud . . . . . cum multo apparatu et famulatu in craftino &#x005B;&#596;: Augusti II&#x005D; fancti Laurentii &#x005B;&#596;: Augusti 10&#x005D;, et cum ingenti vit&#x00E6; periculo, quod nocte affumptionis facr&#x00E6; Virginis &#x005B;&#596;: Augusti 15&#x005D; fuftinuerant, fummo mane dit&#x00E6; folemnitatis apud Bergis vela fubmiferunt. Ipfa poftmodum folemniter coronata et de eximia parentela coram omnibus proclamata, tam gratiofe erga regem et fuos fe habuit quod mores in melius mutavit, idioma Gallicum et Anglicum eum docuit, et de indumentis et efculentis honeflius inflituit: unam tantum filiam ex ea fufcepit, qu&#x00E6; modico poft matrem tempore vixit.&#x00BB;</note><note type="footnote">Johannis Forduni Scotichronicon usqye ad 1385, lib. X cap. XXXVII, ed W. Goodall (1759), II, 124-125. &#x00AB;Paulo tamen ante hoc, A. fciz. D. MCCLXXXL. de&#x17f;pon&#x17f;ata e&#x17f;t Margareta filia regis Alexandri tertii regi Norwegi&#x00E6; Hanigow five Hericio nuncupato; qu&#x00E6;, pridie Idus Augu&#x17f;ti Scotiam relinquens, nobili transfretavit apparatu, cum Waltero Bullok comite, et ejus de Menteth comiti&#x17f;&#x17f;a, un&#x00E0; cum abbate Balmunirach, et Bernardo de Montealto, et aliis multis militibus et nobilibus; ac in vigilia a&#x17f;&#x17f;umptionis no&#x17f;tr&#x00E6; Domin&#x00E6; Norweiam e&#x17f;t ingre&#x17f;&#x17f;a, et &#x00E0; rege honorific&#x00E8; &#x17f;u&#x17f;cepta, ac ab archiepi&#x17f;copo illius regni, invit&#x00E2; matre eju&#x17f;dem regis, coronata e&#x17f;t. Po&#x17f;t ver&#x00F2; nuptias &#x17f;olenniter celebratas, dicti abbas Bernardus, et alii plures in redeundo &#x17f;unt &#x17f;ubmerfi. Walterus autem comes, et uxor ejus, cum tota familia de Norweia in Scotiam pro&#x17f;per&#x00E8; redierunt. Sed et h&#x00E6;c eadem domina Margareta Noricorum regina, c&#x00F9;m per unum annum et dimidium cum rege viro &#x17f;uo vixi&#x17f;&#x17f;et, in eju&#x17f;dem anni principio, quo et frater ejus Alexander obiit, quinto Idus Aprilis debitum human&#x00E6; conditionis per&#x17f;olvit. De qua rex Noricus unicam filiam tant&#x00F9;m genuit, nomine etiam Margaretam; qu&#x00E6; c&#x00F9;m ad annos maturitatis pervenerat, et ip&#x17f;a fimiliter ab hac luce migravit&#x00BB;</note></l>
+</lg>
+<lg type="stanza" n="2">
+<head type="stanzaNumber">&#x005B;2&#x005D;</head>
+<l>Cum pax accend&#x00ED;tur que &#x17f;u&#x00ED; grac&#x00ED;a</l>
+<l>regn&#x00ED;&#x17f; &#x00ED;ndicit<hi rend="italic">ur</hi> red&#x00ED;t let&#x00ED;c&#x00ED;a .</l>
+<l>Applaundunt und&#x00ED;que terra<hi rend="italic">&#x03B6;um</hi> &#x17f;pac&#x00ED;a</l>
+<l>tecum &#x17f;<hi rend="italic">ed</hi> ut&#x00ED;q<hi rend="italic">ue</hi> <hi rend="italic">con</hi>guadet Anglia .</l>
+</lg>
+<lg type="stanza" n="3">
+<head type="stanzaNumber">&#x005B;3&#x005D;</head>
+<l>Ad regem m&#x00ED;tt&#x00ED;tur Eyr&#x00ED;cum reg&#x00ED;a</l>
+<l>u&#x00ED;rgo &#x17f;u&#x17f;cip&#x00ED;tur &#x17f;umma cu<hi rend="italic">m</hi> glo&#x03B6;&#x00ED;a .</l>
+<l>Gen&#x17f; tota foluitur &#x00ED;n plau&#x17f;u&#x17f; e&#x1E8F;a</l>
+<l>cantu&#x17f; extoll&#x00ED;tur f&#x00ED;unt tr&#x00ED;pud&#x00ED;a .</l>
+</lg>
+<pb n="41"/>
+<lg type="stanza" n="4">
+<head type="stanzaNumber">&#x005B;4&#x005D;</head>
+<l>Cleri celeb&#x03B6;iter occurrat conc&#x00ED;o</l>
+<l>o&#x03B6;at &#x17f;alub&#x03B6;&#x00ED;ter &#x17f;acra relig&#x00ED;o .</l>
+<l>Prod&#x00ED;t celer&#x00ED;ter omn&#x00ED;s cond&#x00ED;c&#x00ED;o</l>
+<l><hi rend="italic">et</hi> &#x17f;exu&#x17f; pariter re&#x17f;ulta<hi rend="italic">n</hi>&#x17f; gaud&#x00ED;o .</l>
+</lg>
+<lg type="stanza" n="5">
+<head type="stanzaNumber">&#x005B;5&#x005D;</head>
+<l>Rex ducit u&#x00ED;rg&#x00ED;nem dulce <hi rend="italic">con</hi>&#x00ED;ugium</l>
+<l>p<hi rend="italic">er</hi> mundi card&#x00ED;nem p<hi rend="italic">ro</hi>ducit gaud&#x00ED;um .</l>
+<l>Saluet <hi rend="italic">com</hi>paginem Deus ha<hi rend="italic">n</hi>c om<hi rend="italic">n</hi>&#x00ED;u<hi rend="italic">m</hi> .</l>
+<l>ho<hi rend="italic">&#x03B6;um</hi> propag&#x00ED;nem det <hi rend="italic">et</hi> &#x00ED;n med&#x00ED;um .</l>
+</lg>
+<lg type="stanza" n="6">
+<head type="stanzaNumber">&#x005B;6&#x005D;</head>
+<l>Reg&#x00ED;na re&#x17f;&#x00ED;det &#x00ED;n regn&#x00ED; &#x17f;ol&#x00ED;o</l>
+<l>&#x00ED;n&#x00ED;uncta po&#x17f;&#x17f;idet co&#x03B6;onam reg&#x00ED;o .</l>
+<l>Jn cultu p&#x03B6;e&#x17f;idet digna fa&#x17f;tig&#x00ED;o</l>
+<l>&#x17f;it qui &#x17f;ic p<hi rend="italic">ro</hi>uidet lau&#x17f; Dei fil&#x00ED;o .</l>
+</lg>
+<lg type="stanza" n="7">
+<head type="stanzaNumber">&#x005B;7&#x005D;</head>
+<l>O quam laudabili&#x17f; hec regi&#x17f; &#x17f;oc&#x00ED;a</l>
+<l>m&#x00ED;t&#x00ED;&#x17f; affabili&#x17f; plena prudenc&#x00ED;a .</l>
+<l>Cuncti&#x17f; dat humil<hi rend="italic">is</hi> pollet facu<hi rend="italic">n</hi>d&#x00ED;a</l>
+<l>uen<hi rend="italic">us</hi>tat nobil&#x00ED;&#x17f; q<hi rend="italic">ua</hi>m <hi rend="italic">con</hi>t&#x00ED;nenci<hi rend="small-caps">a</hi></l>
+</lg>
+<lg type="stanza" n="8">
+<head type="stanzaNumber">&#x005B;8&#x005D;</head>
+<l>U&#x00ED;ro &#x17f;it ut fu&#x00ED;t Rachel amabilis<note type="footnote">Gen. 29<hi rend="sub">16-39.</hi></note></l>
+<l>ut regi placu&#x00ED;t E&#x17f;ter placabili&#x17f; .<note type="footnote">Esth. 29. <hi rend="sub">15</hi>.<hi rend="sub">17</hi>. <hi rend="sub">51-8</hi>. <hi rend="sub">71-8</hi>. <hi rend="sub">81-8</hi>. <hi rend="sub">15</hi>.</note></l>
+<l>Ut L&#x1E8F;a genu&#x00ED;t sit prole fertilis<note type="footnote">Gen. 29<hi rend="sub">31-30 21</hi>. 35<hi rend="sub">23</hi>. 46<hi rend="sub">15-18</hi>, Ruth <hi rend="sub">411</hi>.</note></l>
+<l>degat ut degu&#x00ED;t Sufanna &#x17f;tabili&#x17f; .<note type="footnote">Dan. 13.</note></l>
+</lg>
+<lg type="stanza" n="9">
+<head type="stanzaNumber">&#x005B;9&#x005D;</head>
+<l>Manente&#x17f; &#x00ED;ug&#x00ED;ter Dei feru&#x00ED;c&#x00ED;o</l>
+<l>fene&#x00ED;cant talit<hi rend="italic">er</hi> fel&#x00ED;c&#x00ED; <hi rend="small-caps">sen&#x00ED;o</hi> .</l>
+<l>Vt u&#x00ED;te labil&#x00ED;s decur&#x17f;o &#x17f;tad&#x00ED;o</l>
+<l>&#x17f;emp<hi rend="italic">er</hi> durabili&#x17f; f&#x00ED;nt d&#x00ED;gni b<hi rend="italic">ra</hi>u&#x00ED;o .</l>
+</lg>
+<lg type="stanza" n="10">
+<head type="stanzaNumber">&#x005B;10&#x005D;</head>
+<l>Ex te p<hi rend="italic">ro</hi>greditur o dulci&#x17f; Scoc&#x00ED;a</l>
+<l>qua late &#x17f;pargitur laudis <hi rend="small-caps">Materia</hi> .</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

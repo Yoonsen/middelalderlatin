@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-// TEI P5 //EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="lap54">
+<teiHeader xml:lang="nob">
+<fileDesc>
+<titleStmt>
+<title>
+Korpusfil: <ref type="external" target="https://urn.nb.no/URN:NBN:no-nb_digibok_2015041326001">Kaj H. Karlsson og Gustav Storm: &#x00AB;Breuis et summaria descriptio Nidrosiensis &#x2026;&#x00BB; I: <title rend="italic">Finmarkens Beskrivelse : brev til Pave Leo den 10de fra erkebiskop Erik Walkendorf</title>, Kristiania, 1901</ref>, s. 4-14 (latinsk tekst p&#x00E5; annenhver side)
+<lb/><hi rend="italic">Digital corpus and dictionary of Norwegian Medieval Latin texts</hi>
+<lb/>Nasjonalbiblioteket 2018
+<lb/>Publiseres som del av digitalt tekstkorpus, kun latinsk tekst er tatt med.
+</title>
+</titleStmt>
+<publicationStmt>
+<p>Publiseres som del av digitalt tekstkorpus: Norwegian Medieval Latin texts, Nasjonalbiblioteket 2018 (https://www.nb.no/forskning/medieval-latin/)</p>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<title><ref type="external" target="https://urn.nb.no/URN:NBN:no-nb_digibok_2015041326001">&#x00AB;Breuis et summaria descriptio Nidrosiensis &#x2026;&#x00BB; I: Finmarkens Beskrivelse : brev til Pave Leo den 10de fra erkebiskop Erik Walkendorf</ref></title>
+<editor>Kaj H. Karlsson</editor>
+<editor>Gustav Storm</editor>
+<pubPlace>Kristiania</pubPlace>
+<date when="1901">1901</date>
+<note type="fileDesc">Transkribert og kodet av Stian Brynildsen for Nasjonalbiblioteket</note>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<langUsage>
+<language ident="nbo">Norsk bokm&#x00E5;l</language>
+<language ident="lat">Latin</language>
+</langUsage>
+</profileDesc>
+<revisionDesc>
+<change who="ENW" when="2018-11-30">Lagt til bibl i sourceDesc. Validert.</change>
+<change xml:id="ENW" who="ENW" when="2018-10-22">Sjekket XML-koding, noen justeringer. Lagt til lang-attributter og langUsage i teiHeader. Fil valid og velformet.</change>
+<change xml:id="SB" who="SB" when="2018-07-20">Transkripsjon og koding.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="lap54_Findmarkia" xml:lang="lat">
+<body>
+<div type="chapter">
+<head type="main">Breuis et summaria descriptio Nidrosiensis diocesis et specialiter cuiusdam ipsius partis, que Findmarkia dicitur, extrema aquilonaris christianitatis plaga.</head>
+<!-- ikke tatt med: norsk oversettelse s. 5, 7, 9, 11, 13, 15 -->
+<div type="uchapter">
+<head type="sub">1.</head>
+<p>Nidrosiensis diocesis, que in toto secus mare plusquam ad octingenta et quinquaginta Italica miliaria protenditur, non continet nisi quinquaginta duo beneficia curata, duas tenussimas abbacias, duo sanctimonialium monasteria et vnicam paruam ciuitatem, Nidrosiam nomine, a qua diocesi vocabulum est inditum.</p>
+</div>
+<div type="uchapter">
+<head type="sub">2.</head>
+<p>Item Findmarkia, que duecentorum et amplius miliarium Italicorum spacio vsque ad mare <hi rend="italic">Dwmshaff</hi>, quod ipsam a Russia disterminat, continetur, ab ecclesia Nidrosiensi supra quingenta Italica miliaria abest: vestissimis rupibus et eisdem omnino aridis et minime fructificis constat, quippe in rarissimis eius valibus frutices brenissimi germinant, in plerisque locis graminis producit nichil, sed et silue vel combustibilis illic (presertim iuxta mare) nichil reperitur; domestica animalia preter paucissimas oues et faciem et formam visentibus pre se ferunt. Non esset terra christianis hominibus habitabilis, nisi captura piscium, que illic frequentissima est, ad ipsam inhabitandam alliceret, quia hoc henus piscis, volgo <hi rend="italic">stockfisk</hi> appellatum, adeo est vbique preciosum, vt ad exteras fere christianas nationes omnes ob sui bonitatem transuehatur. <pb n="6"/><note type="footnote">Jfr. Olai Magni Historia lib. 1 cap. 2 Acer illius regionis, <hi rend="italic">sicuti et vicinarum</hi> semper frigidus est et serenus, <hi rend="italic">innocuus tamen humanis corporibus,</hi> rarissimas pluuias tempore &#x00E6;stiuo admittens tantaque est ille aeris temperies, vt pisces nullo salo conditi, sed solo aere siccati toto deeennio a putrefactione durent</note> Aer enim illius regionis semper frigidus et serenus est, rarissime quippe, puta bis vel ter annuatim, pluit, et frigus ille circa octauum kalendas Iulii intensius multo est quam Rome ad octauum kalendas Ianuuarij, et ideo penetrabili siccitate viget, adeo vt per decem annos (modo in sicco loco seruentur) eiusdem<note type="footnote">Her mangler Ordet <hi rend="italic">generis</hi></note> pisces durare valeant. Atque ob id qui ille morantur, pro prendendorum piscium copia vel defectu domicilia consulto alternant et commutant, nunc hic nunc ibi commorantes. Qui vero illuc externi piscandj gracia adnauigant tantum cibi et potus, quantum illis annuo et amplius spacio opus est, preterea omnia bona sua et domestica vtensilia immo vxores et liberos secum ferunt, secumque illinc recedentes auferunt.</p>
+</div>
+<div type="uchapter">
+<head type="sub">3.</head>
+<p>Item<note type="footnote">Jfr. 1. c. Ab oetavo cal. Aprileis vsque ad sextum Idus Septembreis est illic continuus dies, nullis intervenientibus tenebris, videturque sola iiij nonas Mali vsque ad cal. Augusti, nulla intercidente nocte. Quo fit, vt sine graui periculo ibi navigetur: alioquin in tenebris, ob latentia saxa periculosissima esset ille navigatio.</note> ab octauo kalendas Aprilis vsque ad sextum idus Septembris est illic dies continuus, non interuenientibus tenebris, videturque sol sine intermissione supra ipsius hemisperium a quarto nonas Maii vsque ad octauum kalendas Augusti. Quod nisi tam continua luce omnia illustrarentur tempore dicto, periculosissime nauigaretur propter viarum angustias et perplexitates difficilime extricabiles et subter aquas latentia saxa. Ego cum essem in castro <hi rend="italic">Wardehwss</hi>, quod in extremo Findmarkie situm est, quo preterquam nauigando ab Nidrosia nullus peruenire potest et quo nemo archiepiscoporum Nidrosiensium ante me (quod memorie proditum est) vnquam visitando penetrare est ausus, xiij kalendas Iulij solem media nocte celum ita alte tenentem vidi, quantum in Italia tres vel quatuor horas ante occasum suum eleuatus cernitur. At quando aura turbulenta est et celum nubibus obductum, non est inter diem et noctem hoc tempore discernere nec horas internoscere. Non sunt enim illic horologia distinectiones temporum signantia. Et econtrario per hiemem a kalendis Nouembris vsque ad octauum kalendas <pb n="8"/>Februarii sol illic nuanquam videtur, adeo vt intra domos etiam panem vescendum nisi candelis incensis non videant. Hiems inchoatur a xviij kalendas Octobris, in fine mensis Martij intensissima est, perdurans vsque xv kalendas Iulii.</p>
+</div>
+<div type="uchapter">
+<head type="sub">4.</head>
+<p>Jtem impressiones aquose quam in reliquis aquilonis partibus vehementiores proueniunt et incolis infensissime sunt, vt domibus vel potius cauernis subterraneis claudi cogantur, luce desuper per vnicam fenestrellam immissa perfruentes.</p>
+</div>
+<div type="uchapter">
+<head type="sub">5.</head>
+<p>Jtem ventus illic longe repentissime flare solet et non paucos nautas vel nauigandi peritissimos scopulis et vadis naufragos illidit.</p>
+</div>
+<div type="uchapter">
+<head type="sub">6.</head>
+<p>Jtem in Findmarkia pestis nunquam viget, ideoque longissimi eui homines supra centum et quinquaginta annorum alit. Sed alius quidam nocentissimus morbus, quem Latine alii cassessiam, alii morpheam nigram, ortomiam alii dicunt, in nostra vero vernacula <hi rend="italic">sk&#x00F8;rbwg</hi> appellant, plerosque incautos ante diem obire cogit et subitanea precipue morte absumit. Jd vicium et malum nature ex horrendo eius terre frigore, ciboque et potu gelatis oriri exploratissimum est.</p>
+</div>
+<div type="uchapter">
+<head type="sub">7.</head>
+<p>Jtem mare, quod Findmarkiam alluit, innumere et admirande magnitudinis bestie occupant. Jnter quas memorantur cete grandia, que in nostra volgari li&#x005B;n&#x005D;gua <hi rend="italic">trolhwal</hi> appellantur, quedam ducentorum, quedam trecentorum cubitorum longitudinis, immense item crassitudinis et insolite forme. Horum piscium numerosa turba semel me forte in hoc meo itinere fere intercepisset et neci dedisset, quippe tum de mea familia multos alioqui&#x005B;n&#x005D; audaces non parum propter eorum piscium approximationem perterrefactos animaduerti et animi consernationem pallore prodentes. Sed Deus <pb n="10"/>omnipotens et sancti Olaui regis merita me de tanto periculo eripuerunt, admirantibus non immerito cunctis rem aduientibus tantum salutis discrimen me euasisse.</p>
+</div>
+<div type="uchapter">
+<head type="sub">8.</head>
+<p><note type="footnote">Jfr. Olaus Magnus, lib. xxi, cap 5. Sunt monstrosi pisces in littoribus seu mari Noruagico, inusitati nominis (licet reputentur de genere cetorum) qui immanitatem suam primo aspectu ostendunt, horroremque intuentibus incutiunt, tum in formidinem diutius conspicientes pariter et stuporem vertunt. Horribilis etenim forma sunt, capitibus quadratis vndique spinosis et acutis ac longis cornibus circundatis, instar radicis arboris extirpat&#x00E6;: decem aut duodecim cubitorum longitudine, colore nigerrimo, pr&#x00E6;grandibus oeulis: quorum ambitus vili vel x cubitos excedit: pupilla vnius cubiti rubeum et flammeum colorem referens, qui &#x00E0; longe in tenebrosis temporibus inter vndas veluti ignis accensus piscantibus apparet: pilos vt anserinas pennas, spissos et longos, in modum dependentis barb&#x00E6;: reliquum vero corpus ad magnitudinem capitis (quod quadratum est) valde pusillum, cum vltra xiiii vel xv cubitos in longitudine minime habeat. Vna haram beluarum plures naues et grandes, fortissimis nautis confertas, facilime subuertit aut mergit. Huie admirand&#x00E6; etc. Se Fortalen.</note>Sunt preterea alia cete eiusdem nominis sed forme horribilioris, raro videntur, capitibus quadratis vndique acutis cernibus obsitis, x aut xj cubitorum longitudinis<note type="footnote">Herefter er f&#x00F8;rst skrevet: <hi rend="italic">In quolibet,</hi> men overstr&#x00F8;get.</note>, colore nigerrimo, pregrandibus oculis, quorum circumferentia viij vel nouem cubitorum est, pupilla cubitalis longitudinis rubeum et flammeum quiddam referens, reliquo corpore admodum (scilicet pro capitis quantitate)<note type="footnote">Haandskriftet har herefter: <hi rend="italic">ad,</hi> men overstr&#x00F8;get.</note> pusillo, vt quod xiij vel xiiij cubitos non excedat. Vna forte dierum cum rei diuine in oppido (<hi rend="italic">Matkwr</hi> nomine)<note type="footnote">Herefter er f&#x00F8;rst skrevet <hi rend="italic">diuine rei,</hi> men understr&#x00F8;get.</note> operarer, harum bestiarum vna naues meas obsedit et precipitare parabat; famuli mej, qui tum in nauibus aderant, territj littus eimba pecierunt.</p>
+</div>
+<div type="uchapter">
+<head type="sub">9.</head>
+<p>Reperiuntur item illic <hi rend="italic">serpentes marini</hi> perniciosissimi, quorum qui mediocris quantitatis sunt longitudinis triginta, spissitudinis quinque cubitorum mensuram equant, qui maiores centum et quinquaginta cubitos longitudine superant, crassitate ipsam proportionabiliter imitante, capitibus quadratis aliquanto reliquum corpus magnitudine excedentibus, colore griseo. Sepe exhibentur visibus humanis, sed hoc sereno tantum aere et mari placido, perdendorum hominum auidi. Sed nautis, quibus mortem intentant, id vnum effugium est, vt naues suas contra beluarum oculos e regione solis radiis oppositos dirigant. Ita enim minus lumen obiecto maiore obfuscari et hebetari necesse est.</p>
+</div>
+<pb n="12"/>
+<div type="uchapter">
+<head type="sub">10.</head>
+<p>Est et alia quedam immanis bestia wlgariter <hi rend="center">Rosmer</hi>appellata longitudine xj, xij vel xiij, spissitudine vij vel viij cubitorum, capite terribili, quod etsi vndique dentibus abundet, precipue tamen duobus insolite magnitudinis dentibus in superiore mandibula armata est; singulis dentibus cubitalis longitudo &#x005B;&#596;: &#x2013; inis&#x005D;, alios tamen minus alios plus iuxta reliqui corporis quantitatem extendj comperimus, iidem preciosi Rutenis magno veneunt. <note type="footnote">Jfr. Olai Magni hist. XXI c. 28: Rosmari itaque hi pisees <hi rend="italic">siue morsi</hi> dicuntur, caput habentes bouin&#x00E6; figur&#x00E6;, hirsutam pellem pilosque spissitudine veluti culmos vel calamos frumenti late defluentes.</note>Barba illis setosa rigida, ad palmi longitudinem, crassitudine magni culmi, pelle hirsuta duorum digitorum densitate, incredibili robore et firmitate predita.</p>
+</div>
+<div type="uchapter">
+<head type="sub">11.</head>
+<p>Jtem Findmarkia a tracio vel circio habet gentem illam breui et pusilla statura, scilicet vnius et dimidij cubitj wlgo <hi rend="italic">Skr&#x00E6;linger</hi> appellatam, gentem inquam imbellem, vtpote quorum quindecim vnicum christianum vel Rutenum bellando vel colloquendo aggredj non audeant. Subterraneas domos habitant, vt inuestigari vel expugnari non possint. Deos colunt.</p>
+</div>
+<div type="uchapter">
+<head type="sub">12.</head>
+<p>Jtem regio quedam, Trenes nuncupata, terra nemorosa et densissimis siluis consita ab oriente Findmarkie contermina est, quam homines plane feri et siluestres non multum (quantum ad rationis vsum) a simiis distantes colunt. Deos adorant, tributa regibus Noruegie, Suecie et imperatori Russie persoluunt, certas domos ignorant, tentoriis, quoties loca mutare iuuerit, vtuntur, itaque pro ferarum (quarum etiam crudis carnibus vescuntur) copia vel penuria nouas semper sedes inuestigant, animalium venatorum pellibus vestiuntur.</p>
+</div>
+<div type="uchapter">
+<head type="sub">13.</head>
+<p>Jtem Russia ab austro Findmarkie finitima est, cuius incole maximas sepe strages in conterminos christianos, prohdolor, ediderunt.</p>
+<p>Jtem qui inter Russiam et Findmarkiam Finnones habitant, <pb n="14"/>modo christiani sunt, quorum tamen multos, qui hactenus demoniis sacrificabant, in vnum Deum credendum esse docuimus et qui coniugale fedus respuebant, matrimonialiter in facie ecclesie copulaui et copulari feci, ostendens illis vanum et animarum saluti damnosum esse diis immolare, et pro meis viribus pastorali officio statisfeci. Proinde in verbo veritatis et sub fide bona polliciti sunt eam per me datam<note type="footnote">Skrevet over Linjen.</note> bene beateque viuendj rationem se obseruaturos et liberis suis posterisque in euum tradituros, quod Deus optimus maximus confirmare velit precor.</p>
+</div>
+<div type="uchapter">
+<head type="sub">14.</head>
+<p>Jtem in abditis et abstrusis antris rupium Findmarkie multj perhibent animas a delictorum colluuione purgari. Argumento non obscuro sunt miserabiles et horrende voces, que illic subinde audiuntur et a quibusdam famulis meis, dum ibidem agerem, audite sunt. Sed veritatem rei definire Dei solius est, cuius iudicia occulta sunt et vie inuestigabiles.</p>
+</div>
+<div type="uchapter">
+<head type="sub">15.</head>
+<p>Jtem in Findmarkia plures homines sunt vtriusque sexus, qui vel nolentes fantasmata et mortuos resuscitatos se coram presentes videre dicunt, cuius signum probabile est, quod, cum talia viderint, oculis eorum sua sponte lachryme oboriuutur et subito pallore attonitj afficiuntur. Hij (mirabile dictu) homines longo maris tractu ab eorum mansionibus submersos interfectosue vel alias mortuos, priusquam alicui ceterorum mortalium res innotescat, quasi viuos se illorum visibus exhibentes aspiciunt. Et (quod fidem tam dubie rei astruere possit) de vna eademque re diuersi id genus homines singillatim et discrete requisiti ne in vno quidem iota narrando visa aberrant vel discrepant.<note type="footnote">F&#x00F8;rst skrevet <hi rend="italic">abberant,</hi> men overstreget.</note> Sed tam desperate materie fidem dare merito recuso, sed ne libenter quidem de hac materia sermonem fieri audio.</p>
+</div>
+<div type="uchapter">
+<head type="sub">16.</head>
+<p>Preter hec multa horum similia in hac regione reperuintur, que et ob rei nimietatem et beatarum aurium Sanctitatis vestre fastidium silentio pertraneso.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

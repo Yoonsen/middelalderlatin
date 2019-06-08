@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-// TEI P5 //EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="lap79">
+<teiHeader xml:lang="nob">
+<fileDesc>
+<titleStmt>
+<title>
+Korpusfil: <ref type="external" target="https://urn.nb.no/URN:NBN:no-nb_digitidsskrift_2011120155004_001">Gustav Storm. &#x00AB;Brudstykke af en latinsk Overs&#x00E6;ttelse af Kongespeilet fra 14de Aarhundrede&#x00BB; I: <title rend="italic">Arkiv for nordisk filologi</title>, Vol. 1, Lund 1883</ref>, s. 110-112
+<lb/><hi rend="italic">Digital corpus and dictionary of Norwegian Medieval Latin texts</hi>
+<lb/>Nasjonalbiblioteket 2018
+<lb/>Publiseres som del av digitalt tekstkorpus, kun latinsk tekst er tatt med.
+</title>
+</titleStmt>
+<publicationStmt>
+<p>Publiseres som del av digitalt tekstkorpus: Norwegian Medieval Latin texts, Nasjonalbiblioteket 2018 (https://www.nb.no/forskning/medieval-latin/)</p>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<title><ref type="external" target="https://urn.nb.no/URN:NBN:no-nb_digitidsskrift_2011120155004_001">&#x00AB;Brudstykke af en latinsk Overs&#x00E6;ttelse af Kongespeilet fra 14de Aarhundrede&#x00BB; I: <title rend="italic">Arkiv for nordisk filologi</title> (Vol. 1, 1883)</ref></title>
+<editor>Gustav Storm</editor>
+<publisher>Lund University Press</publisher>
+<pubPlace>Lund</pubPlace>
+<date when="1883">1883</date>
+<note type="fileDesc">digitidsskrift_201112015, transkribert og kodet av Stian Brynildsen for Nasjonalbiblioteket</note>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<langUsage>
+<language ident="nbo">Norsk bokm&#x00E5;l</language>
+<language ident="lat">Latin</language>
+</langUsage>
+</profileDesc>
+<revisionDesc>
+<change who="ENW" when="2018-11-30">Lagt til bibl i sourceDesc. Validert.</change>
+<change xml:id="ENW" who="ENW" when="2018-10-25">Sjekket XML-koding, noen justeringer. Lagt til lang-attributter og langUsage i teiHeader. Fil valid og velformet.</change>
+<change xml:id="SB" who="SB" when="2018-08-01">Transkripsjon og koding.</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="lap79_Kongespeilet" xml:lang="lat">
+<body>
+<div type="chapter">
+<head>Brudstykke af en latinsk Overs&#x00E6;ttelse</head>
+<p>Illustri Domin&#x00E2;, Domin&#x00E2; me&#x00E2; Duciss&#x00E2; &#x005B;Ingeburge fili&#x00E2; regis Norvegie, <hi rend="italics">eadem manu supra lineam</hi>&#x005D; narrante comperi, multifaria mirabilia in aquilonaribus mundi partibus emergentia, ab inexpertis et extraneis vix credibilia. Sicut enim in Indi&#x00E2; vehemens mirum reputatur, qvod ingentes dracones et veneosi ab hominibus parv&#x00E6; quantitatis domantur et eqvitentur: ita ultra Norvegiam et in Norvegi&#x00E2; contingunt mira &#x00E6;que stupenda, et apud Indos forte pro fictitiis reputata, velud hoc et smilia, qvod homines, alligatis hastis sive asseribus .x. ulnarum circum coratis sub plantis pedum, tant&#x00E2; velocitate discurrunt, qvod animalia sicut renos et similia capiunt cursitando. Item dictur ibi esse palus talis natur&#x00E6;, qvod si lignum infigitur illi, mutatur in lapidem. Situm Norvegi&#x00E6; possumus pensare ex hoc, qvod in illa stunt qv&#x00E6;dam terr&#x00E6;, et pr&#x00E6;cipue Holgheland, ubi prenduntur strumuli; in qv&#x00E2; sic se habet cursus solis, qvod a 4<hi rend="raised">0</hi> ydus Novembris ad qvartum ydus Januarii propter remotam solis absentiam nuncqvam in tantum lucescit dies, qvod stell&#x00E6; tam clar&#x00E8; non apparant supra eorum orizontem sicut in medi&#x00E2; nocte. Hoc spatium terr&#x00E6; comprehenditur inter duas parochias ibi satis famosas, videlicet Vagon et Andernes. In qvibusdam locis sol non emergit super orizonta ante .x. kal. Februarii; sed postea prolongatur dies, adeo qvod stat continua dies sine nocte ab viii<hi rend="raised">0</hi> ydus Aprilis usqve ad .xv. kal. Octobris. Item in Holegheland videtur solis corpus die ac nocte, licet non meretur dici nox, in eorum emisperio &#x00E0; viii<hi rend="raised">0</hi> kal. Junii usqve ad 8<hi rend="raised">0</hi> kal. Augusti.</p>
+<p>Modo secundum ordinem Speculi Regalis in Norico ydiomate conscripti oportet primo exprimere miranda occurrantia de Yrlandi&#x00E2;; qv&#x00E6; qvidem annexa dicitur Grønlandi&#x00E6;, sed propter impenetrabilia deserta <pb n="111"/>non pertingitur ad eam, tamen scitur ex eo qvod animalia qv&#x00E6;dam qv&#x00E6; tantum vivere dicuntur in Yrlandi&#x00E2; veniunt interdum ad Gr&#x00F8;nlandiam. Ibi est salubris temperies aeris; nec multum necesse de vestibus. Item venenosa animalia, sicut serpentes, ibi vivere non valent; qvia terra est talis efficaci&#x00E6;, qvod qvocumqve portatur, interficit ea. Idem faciunt lapides et arbores circulo circumducto. Item secundum relationem didici ibidem esse qvandam aqvam, qv&#x00E6; alterat naturam ligni in fundo transfixi in ferrum; partem vero stantem in ips&#x00E2; aqv&#x00E2; mutat in lapidem; sed exterma particula stipitis super aqvam erecta, manet in su&#x00E2; form&#x00E2; substantialiter lignum, si steterit per tres annos, et tantum illa arbor qv&#x00E6; vocatur acrifolium. tamen in e&#x00E2;dem palude crescunt arbores et arbusta. Item incol&#x00E6; istius regni sunt ferocissimi, sed sanctos et humiles valde reverenter diligunt, et nuncqvam aliqvos trucidabant, per eosqve sub misericordia Dei conservantur. Item audivi ibi duos fontes existere sub iugo montis unius, qvorum unus variat qvidqvid album fuerit, sicut ovis vel eqvus, in colorem contrarium, sicut nigredinem. et alter fons, cuiuscumqve coloris fuerit res sibi intincta reddit ipsam albam. Item est ibi in qv&#x00E2;dam aqv&#x00E2;, nomine Logica, insula mobilis qv&#x00E6; aliqvando videtur emnius &#x00E8; terra defluere, aliqvando cominus affluere, et pr&#x00E6;cipue in diebus dominicis. Postqvam fuerit taliter revoluta per vii annos, tunc coniungitur rupi terr&#x00E6; consolidatione firmissima, eoqve tempore connexionis causatur sonus vehementissimus ad modum tonitrui. Deinde exit alia insula simili modo conglobata fluitqve aliis septem annis et sic in infinitum. Mirabilem effectum habet potentia huius loci. non portat nisi unam personam tantum, ut dicunt qvi freqventer navigio venerunt ad eam. Item qvalemcumqve infirmitatem habuerit patiens, et qvieverit paulisper super e&#x00E2;, ab omni passione liberatur. Item legitur in Ybernia modicam insulam esse, nomine Inhiisgluer, in qv&#x00E2; mortui non sepeliuntur, sed eriguntur cadavera eorum, sicut vivi starent in cimiterio, et non corrumpuntur. Item invenitur ibi una insula, in qva homines mori non possunt; sed cum longa&#x00E2; valetudine fuerint concussi, deportantur et obiunt. Item in aqv&#x00E2; nominata Logherne est nimia habundantia piscium, in e&#x00E2;qve sita est insula fertilissima, cuius dimidietatem inhabitant d&#x00E6;mones tam potentes sicut in inferno, in saniore vero parte illius fuit una ecclesia, et homines ibi habitabant, sed raro recesserant. Ibiqve visum est qvoddam monstrum, formam habens humanam, hirsutum valde, jubam gerens eqvinam. H&#x00E6;c de natur&#x00E2; terr&#x00E6; creduntur retinere effectum et veritatem. verum tamen qv&#x00E6;dam feruntur ibi miraculose choruschare propter sedulas preces sancti.</p>
+</div>
+</body>
+</text>
+</TEI>
