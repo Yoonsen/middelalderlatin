@@ -2,14 +2,13 @@
 <html><head>
     <meta http-equiv="Content-Type" content="text/html; charset="UTF-8"> 
     <link rel="shortcut icon" type="image/x-icon" href="https://beta.nb.no/korpus/static/favicon.ico">
-   
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
    
     <style>
      
         
-        body {
-            background-color: #818181; //#00579E;
+        body, html {
+            background-color: # #f3f0ed; //#00579E;
             color: #E1E1E1;
             padding:0px;
             font-size:1.1em;
@@ -26,6 +25,13 @@
             font-family: Arial;
 
         }
+        a.meta {
+            font-size:0.9em;
+            text-decoration: none;
+            font-family:Arial;
+            color:white;
+
+        }
         sitat, treff {
             font-family: Arial;
             font-size:1.1em;
@@ -33,18 +39,14 @@
         treff {
             color:#00579E;
         }
-        #konk {
-            margin-top:50px;
-            margin-bottom: 20px;
-            padding:20px;
-        }
-        input, label {
+
+        input[type=text] {
+            width:300px;
             height:30px;
             font-size:1.2em;
             font-family:Arial;
-            border-radius:5px;
-    
-            margin:2px;
+            border-top-left-radius: 4px;
+            border-bottom-left-radius: 4px; 
             padding:5px 5px;
             
         }
@@ -53,68 +55,81 @@
             height:25px;
         }
         input[type=button] {
-            //width: 100%;
-            background-color: #3C7F30;
-            height:43px;
-            color: white;
-            padding: 10px 10px;
-            //margin: 8px 0;
+            width: 70px;
+            background-color: #edeae5;
+            color:#7b715e;
+            //height:30px;
+            font-size:1.2em;
+            color: black;
+            margin-left: -8px;
+            padding-top:8px;
+            padding-bottom:8px;
             border: none;
-            border-radius: 4px;
+            border-top-right-radius: 4px;
+            border-bottom-right-radius: 4px;
             cursor: pointer;
-            box-shadow: 2px 2px  2px #8CbF80 ;
+            //box-shadow: 2px 2px  2px #8CbF80 ;
         }
+     
         h1, h2 {
             font-family: "Pirata One";
             
+        
         }
-        #medieval {
-            float:right;
-            margin-left:30px;
-        }
-        #top-element {
-            background-color:#A1A1A1; //#FFE36F;   // #262C33;
-            margin: -30px -10px;
-            padding: 40px 10px;
-            //border:1px solid black;
-        }
-        #wrapper {
-            
-            margin:auto;
-            width:100%;
-            padding:20 px;
-            }
-        #main-break {
-            margin-top:25px;
-        }
-        #result, .form  {
+      
+        #result  {
             
             color:black;
-            //margin-top:50px;
-            margin-left:10%;
-            margin-right:10%;
-            padding:10px;
+            margin:auto;
+            width:80%;
             min-height:40px;
-            
-        }
-        #result {
             background-color:white;
         }
+
         img  {
-            border: 1px solid #444;
-            border-radius: 5px;
-            padding: 2px;
+            border: none;
+            size:10%;
         }
 
-        .logo {
-            float:left;
-            height:50px;
+        #heading {
+            text-align:center;
+            background-color:  #7b715e;
+            height:120px;
+            padding:20px;
         }
-        .header {
+        #logo {
+            float:left;
+
+        }
+        #konk {
+            //margin-top:50px;
+            //margin-bottom: 20px;
+            //padding:200px;
+            display:inline;
+
+        }
+        #about {
             float:right;
         }
-        #headings {
-            padding-bottom:20px;
+        #title {
+            
+            font-size:1.5em;
+        }
+
+        #logoimg {
+            width:200px;
+            height:auto;
+        }
+        #toolbar {
+            //background-color:#bfbab0;
+            //margin-top:-50px;
+            display:inline;
+            float:right;
+        }
+        #omtekst, #searchtip {
+            color:white;
+            margin-left:10px;
+            float:right;
         }
     </style>
     
@@ -145,35 +160,28 @@ function formvalue(x) {
 
 </head>
 <body style="">
-    <div id="top-element">
-    <div id="wrapper">
-        <div id="headings">
-            <a href='https://www.nb.no' target="_blank"><img src="logo.png" class='logo'></img></a>
-            <h1 class="header">Medieval Latin Concordance</h1>
-        </div>
     
-        <div id="form-input" onkeypress="checkKey(event)">
-            <form id="konk" class="form"> 
-                <input id="param" type="text" name="query" placeholder="Enter words" value="">
-                <input id="pbutton" type="button" onclick="myFunction($(&#39;#param&#39;).val(), $(&#39;#size&#39;).val(), $(&#39;#window&#39;).val())" value="Search">
-                <div id="params">
-                    <div>
-                        <input id="size" type="number" min="2" name="query-size" value="20">
-                        <label>Number of hits</label>
-                    </div>
-                    <div>
-                       <input id="window" type="number" min="2" name="query-window" ,="" value="8">
-                       <label>Concordance size</label>
-                    </div>
-                </div>
-                
-             </form>
-         </div>
-     </div> 
-    </div>
-    <div id="container">
-        <div id="result">
+    <div id="heading">
+        <a id="logo" href='https://www.nb.no' target="_blank"><img id='logoimg' src="NB-logo-eng-hvit.png"></img></a>
+        <form id="konk" class="form" onkeypress="checkKey(event)"> 
+
+                <input id="textinput" type="text" name="query" placeholder="Enter words" value="">
+                <input id="gobutton" type="button" onclick="myFunction($(&#39;#param&#39;).val(), $(&#39;#size&#39;).val(), $(&#39;#window&#39;).val())" value="Go!">
+        </form>
+        <div id="about">
+            <div id="title">Medieval Latin Concordance</div>
+            <div id="toolbar">
+                <div id="omtekst"><a class='meta' href="about.html" target="_blank">About the corpus</a></div>
+                <div id= "searchtip"><a class='meta' href="searchtips.html" target="_blank">Search tips</a></div>
+            </div>
         </div>
+       
     </div>
+
+     
+
+    <div id="result">
+    </div>
+
 
 </body></html>
