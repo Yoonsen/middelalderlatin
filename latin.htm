@@ -145,10 +145,17 @@ function myFunction(q, s, w) {
     });
     };
         
-function checkKey(e) {
-    if(e.keyCode==13)
+//function checkKey(e) {
+//    if(e.keyCode==13)
         myFunction($('#textinput').val(), 50, 20);
-}
+//}
+
+    $('#textinput').on("keypress", "input", function(e){
+        if(e.which == 13){
+            myFunction($('#textinput').val(), 50, 20);
+        }
+    });
+</script>
 function formvalue(x) {
     var myForm = $('#result').append(x);
 
