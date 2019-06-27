@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset="UTF-8"> 
+    <link rel="shortcut icon" type="image/x-icon" href="https://beta.nb.no/korpus/static/favicon.ico">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+   
+    <style>
+     
+        
+        body, html {
+            background-color: # #f3f0ed; //#00579E;
+            color: #E1E1E1;
+            padding:0px;
+            font-size:1.1em;
+            font-family: Garamond;
+        }
+        p > textarea {
+            display:none;
+        }
+        a:link, a:visited {
+            //background-color:hotpink;
+            color:gray;
+            text-decoration:none;
+            font-size:1.2em;
+            font-family: Arial;
+
+        }
+        a.meta {
+            font-size:0.9em;
+            text-decoration: none;
+            font-family:Arial;
+            color:white;
+
+        }
+        sitat, treff {
+            font-family: Arial;
+            font-size:1.1em;
+        }
+        treff {
+            color:#00579E;
+        }
+        input[type=text] {
+            width:300px;
+            height:30px;
+            font-size:1.2em;
+            font-family:Arial;
+            border-top-left-radius: 4px;
+            border-bottom-left-radius: 4px; 
+            padding:5px 5px;
+            
+        }
+        input[type=number] {
+            width:45px;
+            height:25px;
+        }
+        input[type=button] {
+            width: automatic;
+            background-color: #edeae5;
+            color:#7b715e;
+            //height:30px;
+            font-size:1.1em;
+            margin-left: -8px;
+            padding-top:10px;
+            padding-bottom:8px;
+            border: none;
+            border-top-right-radius: 4px;
+            border-bottom-right-radius: 4px;
+            cursor: pointer;
+            //box-shadow: 2px 2px  2px #8CbF80 ;
+        }
+     
+        h1, h2 {
+            font-family: "Pirata One";
+            
+        
+        }
+      
+        #result  {
+            
+            color:black;
+            margin:auto;
+            width:80%;
+            min-height:40px;
+            background-color:white;
+        }
+
+        img  {
+            border: none;
+            size:10%;
+        }
+
+        #heading {
+            text-align:center;
+            background-color:  #7b715e;
+            height:120px;
+            padding:20px;
+        }
+        #logo {
+            float:left;
+
+        }
+        #konk {
+            //margin-top:50px;
+            //margin-bottom: 20px;
+            //padding:200px;
+            display:inline;
+
+        }
+        #about {
+            float:right;
+        }
+        #title {
+            
+            font-size:1.5em;
+        }
+
+        #logoimg {
+            width:230px;
+            height:auto;
+        }
+        #toolbar {
+            //background-color:#bfbab0;
+            //margin-top:-50px;
+            display:inline;
+            float:right;
+        }
+        #omtekst, #searchtip {
+            color:white;
+            margin-left:10px;
+            float:right;
+        }
+    </style>
+    
+
+    <script>
+
+function myFunction(q, s, w) {
+   
+    $.get( "https://beta.nb.no/korpus/word",
+        {"q": q, 
+         'window': w, 
+         'size': s},
+        function( data ) {
+            $("#result").html(data);
+    });
+    };
+        
+function checkKey(e) {
+    if(e.keyCode == 13) {
+        //myFunction($('#textinput').val(), 50, 20);
+	e.preventDefault();    
+        $('#gobutton').click()
+    }
+}
+
+
+function formvalue(x) {
+    var myForm = $('#result').append(x);
+
+}
+// alert(myFunction($('#param').val())
+</script>
+
+</head>
+<body style="">
+    
+    <div id="heading">
+        <a id="logo" href='https://www.nb.no/forskning/digital-humaniora/' target="_blank"><img id='logoimg' src="/korpus/static/NB-logo-eng-hvit.png"></img></a>
+        <form id="konk" class="form"> 
+
+                <input id="textinput" type="text" name="query" placeholder="Enter words" value="" onkeypress="checkKey(event)" >
+                <input id="gobutton" type="button" onclick= "myFunction($('#textinput').val(), 50, 20)" value="Submit">
+        </form>
+        <div id="about">
+            <div id="title">Medieval Latin Concordance</div>
+            <div id="toolbar">
+                <div id="omtekst"><a class='meta' href="https://beta.nb.no/korpus/latin/about" target="_blank">About the corpus</a></div>
+                <div id= "searchtip"><a class='meta' href="https://beta.nb.no/korpus/latin/tips" target="_blank">Search tips</a></div>
+            </div>
+        </div>
+       
+    </div>
+
+     
+
+    <div id="result">
+    </div>
+
+
+</body></html>
